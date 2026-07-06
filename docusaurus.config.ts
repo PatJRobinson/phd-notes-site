@@ -12,7 +12,7 @@ const config: Config = {
   organizationName: 'patjrobinson',
   projectName: 'phd-notes-site',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   presets: [

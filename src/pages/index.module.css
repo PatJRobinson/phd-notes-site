@@ -1,23 +1,335 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
+.page {
+  background:
+    linear-gradient(180deg, rgba(247, 250, 246, 0.96) 0%, #ffffff 42%),
+    radial-gradient(circle at top right, rgba(127, 170, 124, 0.2), transparent 36rem);
+  color: #1d2823;
+}
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(17rem, 24rem);
+  gap: 3rem;
+  align-items: end;
+  width: min(1120px, calc(100% - 2rem));
+  min-height: calc(100vh - var(--ifm-navbar-height) - 5.5rem);
+  margin: 0 auto;
+  padding: 6rem 0 3rem;
+}
+
+.heroContent {
+  max-width: 48rem;
+}
+
+.kicker,
+.cardMeta,
+.panelLabel {
+  margin: 0 0 0.85rem;
+  color: #5f7466;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.title {
+  max-width: 49rem;
+  margin: 0;
+  color: #14201b;
+  font-size: clamp(2.55rem, 5vw, 5.4rem);
+  line-height: 0.98;
+  letter-spacing: 0;
+}
+
+.subtitle {
+  max-width: 43rem;
+  margin: 1.35rem 0 0;
+  color: #41534a;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.heroActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-top: 2rem;
+}
+
+.primaryAction,
+.secondaryAction {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.8rem;
+  padding: 0.72rem 1rem;
+  border: 1px solid #21382e;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.primaryAction {
+  background: #21382e;
+  color: #ffffff;
+}
+
+.primaryAction:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background: #315241;
+}
+
+.secondaryAction {
+  color: #21382e;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.secondaryAction:hover,
+.card:hover,
+.rqItem:hover {
+  color: #21382e;
+  text-decoration: none;
+  border-color: #799879;
+}
+
+.heroPanel {
+  padding: 1.35rem;
+  border: 1px solid #d9e2d8;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 18px 45px rgba(32, 51, 43, 0.08);
+}
+
+.heroPanel p {
+  margin: 0;
+  color: #34483e;
+  line-height: 1.65;
+}
+
+.heroPanel a {
+  display: inline-block;
+  margin-top: 1rem;
+  font-weight: 700;
+}
+
+.section,
+.band {
+  padding: 4.5rem 0;
+}
+
+.band {
+  background: #eef4ef;
+  border-top: 1px solid #dfe8df;
+  border-bottom: 1px solid #dfe8df;
+}
+
+.sectionHeader,
+.primaryGrid,
+.threadGrid,
+.rqGrid {
+  width: min(1120px, calc(100% - 2rem));
+  margin-inline: auto;
+}
+
+.sectionHeader {
+  display: grid;
+  grid-template-columns: minmax(13rem, 0.38fr) minmax(0, 0.62fr);
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.sectionHeader h2 {
+  margin: 0;
+  color: #1d2823;
+  font-size: 1.8rem;
+}
+
+.sectionHeader p {
+  margin: 0;
+  color: #52645a;
+  line-height: 1.65;
+}
+
+.primaryGrid,
+.threadGrid {
+  display: grid;
+  gap: 1rem;
+}
+
+.primaryGrid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.threadGrid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  min-height: 13rem;
+  padding: 1.2rem;
+  border: 1px solid #dbe5dc;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #27382f;
+  transition:
+    border-color 160ms ease,
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(36, 58, 48, 0.08);
+}
+
+.cardTitle {
+  margin: 0 0 0.75rem;
+  color: #1c2d25;
+  font-size: 1.2rem;
+  line-height: 1.25;
+}
+
+.card p {
+  margin: 0;
+  color: #52645a;
+  line-height: 1.6;
+}
+
+.rqGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.rqItem {
+  display: flex;
+  flex-direction: column;
+  min-height: 7.5rem;
+  padding: 1rem;
+  border: 1px solid #d5e0d5;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #26372f;
+}
+
+.rqItem span {
+  color: #6a7c70;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.rqItem strong {
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+[data-theme='dark'] .page {
+  background:
+    linear-gradient(180deg, rgba(20, 28, 24, 0.98) 0%, #111814 46%),
+    radial-gradient(circle at top right, rgba(91, 132, 96, 0.18), transparent 36rem);
+  color: #edf4ee;
+}
+
+[data-theme='dark'] .title,
+[data-theme='dark'] .sectionHeader h2,
+[data-theme='dark'] .cardTitle {
+  color: #f3f8f3;
+}
+
+[data-theme='dark'] .subtitle,
+[data-theme='dark'] .sectionHeader p,
+[data-theme='dark'] .card p,
+[data-theme='dark'] .heroPanel p {
+  color: #c3d0c6;
+}
+
+[data-theme='dark'] .kicker,
+[data-theme='dark'] .cardMeta,
+[data-theme='dark'] .panelLabel,
+[data-theme='dark'] .rqItem span {
+  color: #9eb9a4;
+}
+
+[data-theme='dark'] .secondaryAction,
+[data-theme='dark'] .card,
+[data-theme='dark'] .rqItem,
+[data-theme='dark'] .heroPanel {
+  background: rgba(23, 34, 29, 0.9);
+  border-color: #33463a;
+  color: #eef5ef;
+}
+
+[data-theme='dark'] .primaryAction {
+  background: #d7ead9;
+  border-color: #d7ead9;
+  color: #142018;
+}
+
+[data-theme='dark'] .primaryAction:hover {
+  background: #bdd9c1;
+  color: #142018;
+}
+
+[data-theme='dark'] .band {
+  background: #17221d;
+  border-color: #2c3f34;
+}
+
+[data-theme='dark'] .secondaryAction:hover,
+[data-theme='dark'] .card:hover,
+[data-theme='dark'] .rqItem:hover {
+  border-color: #6d9574;
+  color: #eef5ef;
 }
 
 @media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    min-height: auto;
+    padding: 4rem 0 2.5rem;
+  }
+
+  .sectionHeader,
+  .primaryGrid,
+  .threadGrid,
+  .rqGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .rqGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+@media screen and (max-width: 640px) {
+  .hero {
+    width: min(100% - 1.5rem, 1120px);
+    padding-top: 3rem;
+  }
+
+  .section,
+  .band {
+    padding: 3rem 0;
+  }
+
+  .sectionHeader,
+  .primaryGrid,
+  .threadGrid,
+  .rqGrid {
+    width: min(100% - 1.5rem, 1120px);
+  }
+
+  .heroActions,
+  .primaryAction,
+  .secondaryAction {
+    width: 100%;
+  }
+
+  .rqGrid {
+    grid-template-columns: 1fr;
+  }
 }

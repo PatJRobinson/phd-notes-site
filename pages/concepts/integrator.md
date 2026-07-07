@@ -22,7 +22,7 @@ System-level responsibility often lands on integration work, even when the forma
 
 ## In this PhD
 
-Integrator is the main practitioner figure linking architecture, workflow, responsibility, and evidence.
+Integrator is the main practitioner figure linking architecture, work practice, responsibility, and evidence.
 
 ## In relevant RQs
 
@@ -44,4 +44,3 @@ Integrator is the main practitioner figure linking architecture, workflow, respo
 ## Open tensions
 
 The empirical study still needs finer role categories.
-

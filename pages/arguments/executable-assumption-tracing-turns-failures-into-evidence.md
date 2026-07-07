@@ -17,7 +17,7 @@ Rotifer-style assumption tracing can convert opaque robotics experiment outcomes
 
 ## Why it matters
 
-RQ3 needs evidence about interface conditions, not just conceptual claims that interfaces matter.
+RQ3 needs evidence about interface conditions as well as conceptual claims that interfaces matter.
 
 ## Supports
 
@@ -44,4 +44,3 @@ active
 - [positioning-note.md](../../05_prototype_ideas/robotics-testbench-framework/positioning-note.md)
 - [Canonical Nav2 Evidence Ladder.md](../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/Canonical%20Nav2%20Evidence%20Ladder.md)
 - [plan_06-06-26.md](../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/plan_06-06-26.md)
-

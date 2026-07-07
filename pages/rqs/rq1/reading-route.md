@@ -28,7 +28,7 @@
 - [note-on-analytical-approach.md](../../../04_research_methodologies/note-on-analytical-approach.md)
 - [Threat Models and Mental Models.md](../../../04_research_methodologies/Threat%20Models%20and%20Mental%20Models.md)
 
-## Source notes mostly useful through compiled extracts
+## Source notes mostly useful through organised extracts
 
 - [Internal Research Manifesto.md](../../../02_my_notes/Internal%20Research%20Manifesto.md)
 - [cp1-draft.md](../../../06_outputs/forms/cp1-draft.md)

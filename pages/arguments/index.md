@@ -41,7 +41,7 @@
 
 ## Counterarguments / counterpressure
 
-- Rotifer is not a finished assurance/security method.
+- Rotifer should be presented as executable assumption tracing rather than as a finished assurance/security method.
 - The current Rotifer/Nav2 paper should not be recentered around command authority or SROS2; those are secondary/future-facing safety/security threads.
 - Boundary instability should not mean boundary arbitrariness.
 - Interview concepts are scaffolding, not findings.

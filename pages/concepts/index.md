@@ -42,6 +42,6 @@
 
 ## Historical/recoverable concepts
 
-- Assumption misalignment: currently recoverable/historical, compiled through [Assumption-bearing invariant](assumption-bearing-invariant.md) and [Recoverable fragments](../workflows/recoverable-fragments/index.md).
+- Assumption misalignment: currently historical but still useful, represented through [Assumption-bearing invariant](assumption-bearing-invariant.md) and [Recoverable fragments](../workflows/recoverable-fragments/index.md).
 - ROSness: promoted as valid for the [ROS 2-style robotics](ros2-style-robotics.md) thread, with older security-invariant provenance preserved.
 - Human as overseer: recoverable for RQ4/future synthesis.

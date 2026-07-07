@@ -42,5 +42,4 @@ Assurance claim vocabulary keeps safety/security distinct from the evidence and 
 
 ## Open tensions
 
-Needs stronger standards anchoring in a later compile.
-
+Needs stronger standards anchoring in a later pass.

@@ -22,7 +22,7 @@ This is the mechanism linking ROS 2-style composition to RQ2 and RQ4.
 
 ## Supports
 
-RQ2, RQ4, thesis-core workflow.
+RQ2, RQ4, thesis core work area.
 
 ## Depends on
 
@@ -44,4 +44,3 @@ active
 
 - [modularity.md](../../wiki/concepts/modularity.md)
 - [Fragmentation and Architectural Instability](../../02_my_notes/positioning_statements/Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md)
-

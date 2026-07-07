@@ -32,7 +32,7 @@ RQ1, RQ3, RQ4, with RQ2 as a boundary concept source.
 - [note-on-analytical-approach.md](../../../04_research_methodologies/note-on-analytical-approach.md)
 - [methodological-justification.md](../../../04_research_methodologies/methodological-justification.md)
 
-## Outputs this workflow supports
+## Outputs this work supports
 
 Ethics, interview protocol, coding scheme, methods chapter, RQ1/RQ3/RQ4 empirical evidence.
 

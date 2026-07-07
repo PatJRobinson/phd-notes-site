@@ -4,7 +4,7 @@
 
 ### Current RQ and concept layer
 
-The RQ redraft, wiki RQ pathways, and wiki concept pages provide the strongest evidence for current framing and concept boundaries. They are not empirical evidence of RQ3 phenomena, but they are strong provenance for the compiled model.
+The RQ redraft, wiki RQ pathways, and wiki concept pages provide the strongest evidence for current framing and concept boundaries. They are not empirical evidence of RQ3 phenomena, but they are strong provenance for the current interpretation.
 
 ### Interview / empirical design concepts
 
@@ -52,4 +52,3 @@ These notes provide strong conceptual precursors for RQ3. They should be used ca
 ## Source provenance
 
 See [source-provenance.md](source-provenance.md).
-

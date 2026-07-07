@@ -10,7 +10,7 @@ evidence-for
 
 RQ2 wording around modularity, configurability, deployment context, and system boundary.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [index.md](index.md).
 
@@ -24,7 +24,7 @@ evidence-for
 
 Explicit RQ2 numbering and warning that RQ2 asks how boundaries are made, interpreted, and revised rather than proving boundaries are always unstable.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [open-tensions.md](open-tensions.md).
 
@@ -38,7 +38,7 @@ evidence-for
 
 Definition of system boundary as practical/analytical and purpose-relative.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [System boundary](../../concepts/system-boundary.md).
 
@@ -52,7 +52,7 @@ historical-origin-of
 
 Fragmentation, hidden coupling, unstable boundaries, and the gap between flexible integration frameworks and operational assurance.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [argument-map.md](argument-map.md), [evidence-map.md](evidence-map.md).
 
@@ -66,7 +66,7 @@ evidence-for
 
 Provider vocabulary and deployment resolution as a way to make runtime/deployment assumptions visible.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
-[evidence-map.md](evidence-map.md), [Rotifer paper workflow](../../workflows/rotifer-paper/index.md).
+[evidence-map.md](evidence-map.md), [Rotifer paper strand](../../workflows/rotifer-paper/index.md).
 

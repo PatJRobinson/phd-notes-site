@@ -10,7 +10,7 @@ active, evidence-for
 
 Current RQ wording, concept vocabulary, and reading pathways.
 
-### Where it has been compiled
+### Where it appears
 
 [Research Questions](../rqs/index.md), [Current Model](../current-model.md), [Concepts Index](../concepts/index.md).
 
@@ -32,7 +32,7 @@ methodological-background, candidate-section-material
 
 Empirical design scaffold for RQ1/RQ3/RQ4: interview prompts, coding posture, reflexive thematic analysis, unit-of-analysis questions.
 
-### Where it has been compiled
+### Where it appears
 
 [Interviews and methodology](../workflows/interviews-and-methodology/index.md), [RQ1](../rqs/rq1/index.md), [Interview and methodology evidence](../evidence/interview-and-methodology-evidence.md).
 
@@ -54,7 +54,7 @@ evidence-for, candidate-section-material, reusable-language
 
 Executable evidence, paper claim material, command-authority case, Nav2 evidence ladder, provider/deployment vocabulary.
 
-### Where it has been compiled
+### Where it appears
 
 [Rotifer paper](../workflows/rotifer-paper/index.md), [RQ3](../rqs/rq3/index.md), [RQ4](../rqs/rq4/index.md), [Rotifer trace evidence](../evidence/rotifer-trace-evidence.md).
 
@@ -76,7 +76,7 @@ historical-origin-of, candidate-section-material, unresolved-tension
 
 Strong conceptual precursor for RQ2/RQ4: partial abstraction, displaced responsibility, fragmentation, hidden couplings, unstable boundaries, assurance implications.
 
-### Where it has been compiled
+### Where it appears
 
 [RQ2](../rqs/rq2/index.md), [RQ4](../rqs/rq4/index.md), [Thesis core](../workflows/thesis-core/index.md).
 
@@ -98,9 +98,9 @@ superseded-framing, recoverable-fragment
 
 Governance/architecture/infrastructure layer model and explanation of why robotics security frameworks struggle with unstable system definitions.
 
-### Where it has been compiled
+### Where it appears
 
-[Recoverable fragments](../workflows/recoverable-fragments/index.md), [RQ2 open tensions](../rqs/rq2/open-tensions.md), [Safety/security workflow](../workflows/safety-security/index.md).
+[Recoverable fragments](../workflows/recoverable-fragments/index.md), [RQ2 open tensions](../rqs/rq2/open-tensions.md), [Safety/security strand](../workflows/safety-security/index.md).
 
 ### Human judgement
 
@@ -120,9 +120,9 @@ stale-but-useful
 
 Institutional framing, aims/objectives, methods/timeline, older secure-by-design and architectural-invariant language.
 
-### Where it has been compiled
+### Where it appears
 
-[Progression report workflow](../workflows/progression-report/index.md).
+[Progression report strand](../workflows/progression-report/index.md).
 
 ### Human judgement
 
@@ -142,7 +142,7 @@ recoverable-fragment, reusable-language, candidate-section-material
 
 Useful idea that ROS may be a runtime/graph model, middleware substrate, and ecosystem of conventions augmented by external deployment systems. The July decision note promotes it as valid for the ROS 2-style robotics thread, with older security-invariant provenance preserved.
 
-### Where it has been compiled
+### Where it appears
 
 [ROS 2-style robotics](../concepts/ros2-style-robotics.md), [RQ2 open tensions](../rqs/rq2/open-tensions.md).
 
@@ -164,9 +164,9 @@ recoverable-fragment, probably-retired unless promoted
 
 Possible language and claim audits around assurance, autonomy, human role, and systems instability.
 
-### Where it has been compiled
+### Where it appears
 
-Mostly not compiled directly; referenced as requiring human judgement.
+Mostly not represented directly; referenced as requiring human judgement.
 
 ### Human judgement
 

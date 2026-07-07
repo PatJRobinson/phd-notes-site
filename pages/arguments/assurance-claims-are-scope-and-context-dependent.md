@@ -33,7 +33,7 @@ Assurance wiki pages and fragmentation note.
 
 ## Counterpressure
 
-Needs standards/literature anchoring in a later compile.
+Needs standards/literature anchoring in a later pass.
 
 ## Status
 
@@ -43,4 +43,3 @@ active
 
 - [assurance-claim.md](../../wiki/assurance/assurance-claim.md)
 - [deployment-context.md](../../wiki/concepts/deployment-context.md)
-

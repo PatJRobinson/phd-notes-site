@@ -34,7 +34,7 @@
 - [Canonical Nav2 Evidence Ladder.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/Canonical%20Nav2%20Evidence%20Ladder.md)
 - [project-ideology.md](../../../05_prototype_ideas/robotics-testbench-framework/project-ideology.md)
 
-## Source notes mostly useful through compiled extracts
+## Source notes mostly useful through organised extracts
 
 - [robotics-security-as-layer-misalignment.md](../../../02_my_notes/analysis_fragments/robotics-security-as-layer-misalignment.md)
 - [rotifer-forest-for-the-trees.md](../../../02_my_notes/analysis_fragments/rotifer-forest-for-the-trees.md)

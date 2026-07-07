@@ -18,7 +18,7 @@ An answer would show how claims are scoped, what conditions make them valid, wha
 
 ## What this question is not asking
 
-It is not claiming continuous assurance is already solved. It is not asking only about formal safety cases. It is not identical to RQ3: RQ3 concerns safety/security across interfaces; RQ4 concerns claim validity and maintenance over change.
+It treats continuous assurance as an open problem rather than a solved method. It is broader than formal safety cases. It is distinct from RQ3: RQ3 concerns safety/security across interfaces; RQ4 concerns claim validity and maintenance over change.
 
 ## Relation to other RQs
 
@@ -28,7 +28,7 @@ It is not claiming continuous assurance is already solved. It is not asking only
 
 ## Current confidence
 
-Medium-high. The wording is explicit in the current RQ redraft and wiki pathways, and the previous RQ3 compile correctly separated it as adjacent/RQ4. A new decision note keeps all four RQs for now, while preserving the tension that RQ4 must justify what change-over-time adds beyond RQ3.
+Medium-high. The wording is explicit in the current RQ redraft and wiki pathways, and the previous RQ3 pass correctly separated it as adjacent/RQ4. A new decision note keeps all four RQs for now, while preserving the tension that RQ4 must justify what change-over-time adds beyond RQ3.
 
 ## Source provenance
 

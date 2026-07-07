@@ -2,7 +2,7 @@
 
 ## Primary contribution
 
-A representational and executable workflow for tracing assumptions across robotics experiment claims, realisations, deployment conditions, probes, and evidence.
+A representational and executable method for tracing assumptions across robotics experiment claims, realisations, deployment conditions, probes, and evidence.
 
 For the current paper, this contribution should be demonstrated primarily through the Nav2 evidence ladder rather than through command authority.
 

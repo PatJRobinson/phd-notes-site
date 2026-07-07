@@ -10,7 +10,7 @@ evidence-for
 
 RQ1 wording and thesis-centre statement.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [index.md](index.md).
 
@@ -24,7 +24,7 @@ evidence-for
 
 Explicit RQ1 navigation and warning that working understanding is situated, artefact-mediated, and visible through practice.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [concept-map.md](concept-map.md), [reading-route.md](reading-route.md).
 
@@ -38,7 +38,7 @@ evidence-for
 
 Definition of working understanding as situated, practical, partial, and mediated.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [Working understanding](../../concepts/working-understanding.md).
 
@@ -52,7 +52,7 @@ evidence-for
 
 Understanding depends on limited evidence surfaces.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [Partial observability](../../concepts/partial-observability.md).
 
@@ -66,7 +66,7 @@ candidate-section-material
 
 Interview probes around debugging, visibility, system boundaries, roles, deployment, and retrospective warnings.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
-[evidence-map.md](evidence-map.md), [interviews workflow](../../workflows/interviews-and-methodology/index.md).
+[evidence-map.md](evidence-map.md), [interviews strand](../../workflows/interviews-and-methodology/index.md).
 

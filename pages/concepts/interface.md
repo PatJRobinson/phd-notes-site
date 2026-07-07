@@ -20,7 +20,7 @@ Interfaces are where meanings, assumptions, authority, data, timing, and respons
 
 ## In this PhD
 
-Interface is a cross-layer concept, not just an API concept.
+Interface is a cross-layer concept that includes APIs, system boundaries, tooling boundaries, responsibility boundaries, and deployment boundaries.
 
 ## In RQ3
 
@@ -40,4 +40,3 @@ It is the main analytical object: RQ3 asks how safety/security concerns emerge a
 ## Open tensions
 
 Interface may become too broad unless specific interface classes are distinguished later.
-

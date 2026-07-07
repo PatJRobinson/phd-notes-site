@@ -2,19 +2,19 @@
 
 ## Target
 
-Extended compile pass, refreshed on 2026-07-07 after decision-resolution contributions:
+Extended organising pass, refreshed on 2026-07-07 after decision-resolution contributions and the new audience/language policy:
 
 - `targets`: rq1, rq2, rq4, rotifer-paper, safety-security
-- `modes`: refresh_compile, audit_staleness, compile_workflows
+- `modes`: refresh_compile, audit_staleness, compile_workflows, outsider_language_pass
 - `apply_changes`: true
 - `source_policy`: preserve
 - `compiled_dir`: compiled-notes
 
-RQ3 was preserved as the existing safety/security-across-interfaces compilation and used as a cross-link target rather than overwritten.
+RQ3 was preserved as the existing safety/security-across-interfaces interpretation and used as a cross-link target rather than overwritten.
 
 ## Source notes inspected
 
-Reused the prior RQ3 source set and additionally inspected source files for RQ1/RQ2/RQ4, workflows, Rotifer paper, safety/security, methodology, progression, and staleness. Important inspected sources include:
+Reused the prior RQ3 source set and additionally inspected source files for RQ1/RQ2/RQ4, work areas, Rotifer paper, safety/security, methodology, progression, and staleness. Important inspected sources include:
 
 - `compiled-notes/rqs/rq3/index.md`
 - `compiled-notes/rqs/rq3/research-question.md`
@@ -48,14 +48,14 @@ Reused the prior RQ3 source set and additionally inspected source files for RQ1/
 - RQ4 is assurance-over-change and is retained for now, but must justify what change-over-time adds beyond RQ3.
 - Rotifer/Nav2 paper should be framed around evidence and assumption-tracing methodology, with the Nav2 ladder as the primary vehicle.
 - Command authority is security-relevant, but secondary for the current Rotifer/Nav2 paper and likely follow-on material.
-- Safety/security is motivating and consequential, not structurally central to the thesis spine.
+- Safety/security is motivating and consequential, while the core thesis argument remains centred on integration, assumptions, knowledge, practice, and assurance.
 - SROS2 is an important mediating technology and official ROS 2 security mechanism, not the thesis centre.
 - Mental models and working understanding can be used interchangeably at this stage; working understanding remains the safer operational term.
 - ROSness is promoted as valid for the ROS 2-style robotics thread, with older security-invariant provenance preserved.
 
 ## Files created
 
-Created RQ1/RQ2/RQ4 folders, workflow folders, global indexes, staleness audit files, and additional concept/argument/evidence node files.
+Created RQ1/RQ2/RQ4 folders, work-area folders, global indexes, staleness audit files, and additional concept, argument, and evidence files.
 
 ## Files updated
 
@@ -69,7 +69,7 @@ Updated/replaced:
 
 - Whether RQ4 is empirical, methodological, or primarily synthesis.
 - How strong to make secure-by-design and SROS2 language.
-- Which recoverable fragments deserve promotion.
+- Which older fragments deserve promotion into active thesis material.
 - How much command-authority and SROS2 material belongs in the current Rotifer/Nav2 paper discussion.
 
 ## Recommended next compilation flags
@@ -81,3 +81,4 @@ Updated/replaced:
 - `mode: source_audit`
 - `mode: compile_literature`
 - `mode: paper_outline`
+- `mode: outsider_language_pass`

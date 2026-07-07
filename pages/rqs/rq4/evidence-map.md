@@ -34,7 +34,7 @@ Interview concepts around lifecycle drift, visibility, local knowledge, and depl
 - Actual assurance case examples.
 - Practitioner accounts of evidence becoming stale.
 - Standards-specific analysis of claim maintenance.
-- Evaluation of Rotifer as an assurance-support workflow.
+- Evaluation of Rotifer as an assurance-support research method.
 
 ## Candidate thesis material
 
@@ -45,4 +45,3 @@ Interview concepts around lifecycle drift, visibility, local knowledge, and depl
 ## Source provenance
 
 See [source-provenance.md](source-provenance.md).
-

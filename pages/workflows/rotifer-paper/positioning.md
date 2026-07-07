@@ -10,7 +10,7 @@ It represents apps, experiments, providers, realisations, contracts, deployment 
 
 ## Current boundary
 
-The paper should be framed around assumption tracing and evidence interpretation, not around general portability, benchmarking, security scanning, or assurance automation. The current source-layer decision is that the Nav2 ladder carries this methodological argument. Safety/security should appear as motivation and consequence, not as the demonstrated centre.
+The paper should be framed around assumption tracing and evidence interpretation. The current source-layer decision is that the Nav2 ladder carries this methodological argument. Safety/security should appear as motivation and consequence rather than as the demonstrated centre.
 
 ## Strong positioning sentence
 

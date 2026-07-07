@@ -48,5 +48,4 @@ This is the main current evidence base for planned empirical work.
 
 ## Open tensions
 
-No actual participant data has been compiled here.
-
+No actual participant data is presented here.

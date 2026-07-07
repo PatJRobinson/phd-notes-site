@@ -10,7 +10,7 @@ candidate-section-material
 
 The repo-level orientation that current work is organised around RQs, core concepts, Rotifer/executable evidence, and qualitative methods.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [Current Model](../../current-model.md), [RQ3 index](index.md), [compilation report](../../meta/compilation-report.md).
 
@@ -24,7 +24,7 @@ evidence-for
 
 The current thesis statement and the third research question on safety/security concerns across interfaces.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [concept-map.md](concept-map.md), [argument-map.md](argument-map.md).
 
@@ -38,7 +38,7 @@ evidence-for
 
 The explicit numbering of RQ3 as "Safety/security across interfaces" and the distinction from RQ4.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [index.md](index.md), [open-tensions.md](open-tensions.md).
 
@@ -52,7 +52,7 @@ evidence-for
 
 Safety and security are distinct but entangled in cyber-physical robotic systems.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [safety-security-relation concept](../../concepts/safety-security-relation.md).
 
@@ -66,7 +66,7 @@ evidence-for
 
 Interface as a broad cross-layer interaction point and the core object of RQ3.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [interface concept](../../concepts/interface.md).
 
@@ -80,7 +80,7 @@ evidence-for
 
 Integration as the work of making components, tools, configurations, and contexts function as a robotic system.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [integration concept](../../concepts/integration.md).
 
@@ -94,7 +94,7 @@ evidence-for
 
 Configuration as a behaviour-shaping and security-relevant surface.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [configuration concept](../../concepts/configuration.md).
 
@@ -108,7 +108,7 @@ historical-origin-of
 
 Assumption as a condition required but not enforced by the thing relying on it; also the warning that assumption/misalignment language may be an older strong frame.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [open-tensions.md](open-tensions.md).
 
@@ -122,7 +122,7 @@ candidate-section-material
 
 Responsibility boundaries, trusted abstractions, operational pressure, visibility, lifecycle drift, and cross-boundary coordination as empirical RQ3 concepts.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [evidence-map.md](evidence-map.md), [interview evidence](../../evidence/interview-concept-map.md), [open-tensions.md](open-tensions.md).
 
@@ -136,7 +136,7 @@ historical-origin-of
 
 Partial abstraction, displaced system-level responsibility, fragmentation, hidden couplings, unstable boundaries, and implications for safety/security/assurance.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [argument-map.md](argument-map.md), [abstractions argument](../../arguments/abstractions-displace-system-level-responsibility.md).
 
@@ -150,7 +150,7 @@ superseded-framing
 
 The governance/architecture/infrastructure layer model and the idea that threat models require stable system definitions.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [open-tensions.md](open-tensions.md), [argument-map.md](argument-map.md).
 
@@ -164,7 +164,7 @@ evidence-for
 
 Rotifer states, traces, tests, and interprets assumptions around experiment claims across realisations and contexts.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [evidence-map.md](evidence-map.md), [Rotifer evidence](../../evidence/rotifer-positioning-and-project-ideology.md), [Rotifer concept](../../concepts/rotifer-as-assumption-tracing.md).
 
@@ -178,7 +178,7 @@ reusable-language
 
 Rotifer as a research instrument that makes robotic system composition legible and preserves low-level detail where it matters.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [evidence-map.md](evidence-map.md), [Rotifer concept](../../concepts/rotifer-as-assumption-tracing.md).
 
@@ -192,7 +192,7 @@ evidence-for
 
 Progression from topic presence to semantic frame/timing compatibility and bounded navigation claim boundaries.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [evidence-map.md](evidence-map.md), [Nav2 evidence](../../evidence/nav2-evidence-ladder.md).
 
@@ -206,7 +206,7 @@ candidate-section-material
 
 Command authority as a safety/security-relevant invariant and Rotifer as experiment-level semantics for declaring and probing assumptions.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [command authority concept](../../concepts/command-authority.md), [executable assumption argument](../../arguments/executable-assumption-tracing-turns-failures-into-evidence.md).
 
@@ -220,7 +220,7 @@ methodological-background
 
 Cross-layer qualitative analysis of assumptions across standards, middleware, tooling, and practice.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [evidence-map.md](evidence-map.md), [compilation report](../../meta/compilation-report.md).
 
@@ -234,7 +234,7 @@ methodological-background
 
 Threat model and developer mental model should be coupled, with unknowns around unit of analysis and developer reasoning.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [open-tensions.md](open-tensions.md), [unresolved decisions](../../meta/unresolved-decisions.md).
 

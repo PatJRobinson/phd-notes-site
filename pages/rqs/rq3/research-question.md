@@ -24,7 +24,7 @@ An answer would include:
 
 ## What this question is not asking
 
-It is not asking whether security always causes safety failures. It is not asking whether ROS 2, DDS, or SROS2 are good or bad in general. It is not yet asking the full RQ4 question of how assurance claims are maintained across system change, though RQ3 supplies material that RQ4 may use.
+It asks how safety/security concerns arise across integration interfaces. It does not assume that security always causes safety failures, or evaluate ROS 2, DDS, or SROS2 in general. It also leaves the broader question of maintaining assurance claims across system change to RQ4, though RQ3 supplies material that RQ4 may use.
 
 ## Relation to other RQs
 
@@ -43,4 +43,3 @@ High confidence on the RQ3 identification. The explicit numbering in [wiki/meta/
 - [research-questions-redraft-16-06-26.md](../../../03_research_questions/research-questions-redraft-16-06-26.md) - current broad RQ set.
 - [01 - Current Thesis Shape.md](../../../01%20-%20Current%20Thesis%20Shape.md) - current navigation layer.
 - [safety-security-relation.md](../../../wiki/assurance/safety-security-relation.md) - safety/security distinction and relation.
-

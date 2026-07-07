@@ -22,7 +22,7 @@ This turns deployment into a first-class thesis concern rather than an operation
 
 ## Supports
 
-RQ2, RQ4, Rotifer paper workflow.
+RQ2, RQ4, Rotifer paper strand.
 
 ## Depends on
 
@@ -44,4 +44,3 @@ active
 
 - [deployment-context.md](../../wiki/concepts/deployment-context.md)
 - [rotifer-devlog-15-05-26.md](../../05_prototype_ideas/robotics-testbench-framework/rotifer-devlog-15-05-26.md)
-

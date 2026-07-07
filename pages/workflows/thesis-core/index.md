@@ -30,7 +30,7 @@ Current RQ redraft, thesis shape note, wiki concept layer, Rotifer evidence, met
 - [research-questions-redraft-16-06-26.md](../../../03_research_questions/research-questions-redraft-16-06-26.md)
 - [candidate-structure.md](../../../02_my_notes/thesis_stuff/candidate-structure.md)
 
-## Outputs this workflow supports
+## Outputs this work supports
 
 Thesis outline, progression report, chapter planning, current-model updates.
 
@@ -39,7 +39,7 @@ Thesis outline, progression report, chapter planning, current-model updates.
 - How central Rotifer is to the thesis as a whole.
 - Whether assumption/misalignment vocabulary remains mechanism or sensitising concept.
 - RQ4's eventual form: full RQ, synthesis chapter, or both.
-- How much safety/security to foreground in each output, given that it is motivating/consequential but not structurally central.
+- How much safety/security to foreground in each output, given that it is motivating and consequential while the central argument remains about integration, assumptions, knowledge, practice, and assurance.
 
 ## Reading route
 

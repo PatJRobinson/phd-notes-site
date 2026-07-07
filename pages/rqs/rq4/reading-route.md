@@ -28,7 +28,7 @@
 - [Fragmentation and Architectural Instability](../../../02_my_notes/positioning_statements/Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md)
 - [positioning-note.md](../../../05_prototype_ideas/robotics-testbench-framework/positioning-note.md)
 
-## Source notes mostly useful through compiled extracts
+## Source notes mostly useful through organised extracts
 
 - [Architecture instability and the evolving role of the human.md](../../../02_my_notes/positioning_statements/Architecture%20instability%20and%20the%20evolving%20role%20of%20the%20human.md)
 - [research-questions-and-contributions-and-risks-05_06_26.md](../../../03_research_questions/research-questions-and-contributions-and-risks-05_06_26.md)

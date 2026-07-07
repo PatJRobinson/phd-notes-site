@@ -10,7 +10,7 @@ evidence-for
 
 RQ4 wording around composition, configuration, operational context, validity, and maintenance of assurance claims.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [index.md](index.md).
 
@@ -24,7 +24,7 @@ evidence-for
 
 Explicit RQ4 navigation and caution that continuous assurance is not assumed solved.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [research-question.md](research-question.md), [open-tensions.md](open-tensions.md).
 
@@ -38,7 +38,7 @@ evidence-for
 
 Definition of assurance claim and distinction between assurance and safety/security.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [Assurance claim](../../concepts/assurance-claim.md).
 
@@ -52,7 +52,7 @@ evidence-for
 
 Continuous assurance as ongoing claim maintenance under change.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
 [concept-map.md](concept-map.md), [Continuous assurance](../../concepts/continuous-assurance.md).
 
@@ -66,7 +66,7 @@ candidate-section-material
 
 Rotifer's pass/fail/undecidable assumption outcomes and the idea that portability/confidence is scoped by tested boundaries.
 
-### Where it appears in the compiled layer
+### Where it appears in the organised notes
 
-[evidence-map.md](evidence-map.md), [Rotifer workflow](../../workflows/rotifer-paper/index.md).
+[evidence-map.md](evidence-map.md), [Rotifer paper strand](../../workflows/rotifer-paper/index.md).
 

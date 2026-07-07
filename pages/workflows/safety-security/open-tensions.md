@@ -2,14 +2,14 @@
 
 ## Live tensions
 
-- Safety/security is now positioned as motivating and consequential rather than structurally central. The remaining tension is how strongly to foreground it in each output without muddling the thesis spine.
+- Safety/security is now positioned as motivating and consequential rather than structurally central. The remaining tension is how strongly to foreground it in each output without muddling the core thesis argument.
 - How far should command authority stand for safety/security?
 - How should safety/security be kept distinct from assurance?
 - How much SROS2/DDS enforcement detail belongs in the thesis?
 
 ## Decisions needed
 
-- Decide whether to compile a dedicated SROS2/DDS security subgraph.
+- Decide whether to develop a dedicated SROS2/DDS security section.
 - Decide whether "secure-by-design" remains title-level language.
 - Decide whether safety/security examples need a second worked case beyond command authority.
 - Decide whether follow-on Rotifer/security-invariant work becomes a separate paper.

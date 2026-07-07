@@ -26,7 +26,7 @@ The governance/architecture/infrastructure model is useful for security-framewor
 
 ### Best current use
 
-Use in safety/security workflow or future standards chapter.
+Use in the safety/security strand or a future standards chapter.
 
 ## ROSness
 
@@ -40,7 +40,7 @@ It helps define "ROS 2-style robotics" beyond canonical ROS usage and should be 
 
 ### Best current use
 
-Use as a source for the pragmatic definition of ROS as runtime/graph model, middleware substrate, and ecosystem of conventions. Preserve provenance that it came from an older security-invariant framing and includes some useful stream-of-consciousness research voice. Source-audit before using examples as public evidence.
+Use as a source for the pragmatic definition of ROS as runtime/computation-graph model, middleware substrate, and ecosystem of conventions. Preserve provenance that it came from an older security-invariant framing and includes some useful stream-of-consciousness research voice. Source-audit before using examples as public evidence.
 
 ## Human as overseer / assurance broker
 

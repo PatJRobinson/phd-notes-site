@@ -14,13 +14,13 @@ sources:
 
 ## What it is
 
-Synthesised: robotic systems organised around ROS 2-like graph, middleware, package, launch, configuration, and ecosystem conventions, including deployments that augment or wrap ROS workflows.
+Synthesised: robotic systems organised around ROS 2-like computation graphs, middleware, packages, launch files, configuration, and ecosystem conventions, including deployments that augment or wrap ROS-based work.
 
 The ROSness note is now promoted as a valid source for this concept, with provenance: it comes from an older security-invariant framing and includes some stream-of-consciousness research reasoning.
 
 ## Why it matters
 
-The thesis is not only about canonical tutorial ROS. It is about ROS-like integration patterns as they meet industrial deployment, containers, orchestration, safety/security, and local practice.
+The thesis concerns ROS-like integration patterns as they meet industrial deployment, containers, orchestration, safety/security, and local practice.
 
 ## In this PhD
 
@@ -46,4 +46,4 @@ This concept anchors the project's domain without requiring every system to be p
 
 ## Open tensions
 
-The ROSness note is valid and promotable, but its older security-invariant framing should be visible when compiled. Its examples should still be source-audited before becoming public-facing evidence-heavy claims.
+The ROSness note is valid and promotable, but its older security-invariant framing should remain visible when the idea is reused. Its examples should still be source-audited before becoming public-facing evidence-heavy claims.

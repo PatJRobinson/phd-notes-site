@@ -47,4 +47,4 @@ The current frame treats SROS2 usability as analytically interesting rather than
 
 ## Open tensions
 
-SROS2 should be neither underweighted as just one random technology nor overweighted as the whole security story. Future compile should audit the SROS2 literature note and the usability claim specifically.
+SROS2 should be treated as an important mediating technology without making it the whole security story. A future pass should audit the SROS2 literature note and the usability claim specifically.

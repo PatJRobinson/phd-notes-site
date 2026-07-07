@@ -21,7 +21,7 @@ It makes integration conditions inspectable instead of leaving them as tacit por
 
 ## In this PhD
 
-Rotifer is executable evidence and a research instrument, not just a tooling project.
+Rotifer is executable evidence and a research instrument.
 
 ## In RQ3
 
@@ -42,4 +42,3 @@ It can produce bounded evidence about safety/security-relevant interface assumpt
 ## Open tensions
 
 Rotifer should not be overclaimed as proving safety/security. It currently helps classify assumption boundaries.
-

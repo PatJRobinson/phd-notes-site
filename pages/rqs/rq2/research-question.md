@@ -18,7 +18,7 @@ An answer would classify boundary types, show how they shift across purposes, an
 
 ## What this question is not asking
 
-It is not claiming boundaries are arbitrary or impossible. It is not only asking about the ROS graph. It is not yet the RQ4 assurance question, though RQ4 depends on boundary stability.
+It asks about how system boundaries are made and maintained, including but not limited to ROS graph structure. It treats boundaries as practical and technical achievements rather than arbitrary labels, and it leaves the assurance-over-change question to RQ4.
 
 ## Relation to other RQs
 
@@ -36,4 +36,3 @@ High. The wording is explicit in the current RQ redraft and wiki pathways.
 - [wiki/meta/rq-pathways.md](../../../wiki/meta/rq-pathways.md)
 - [wiki/concepts/system-boundary.md](../../../wiki/concepts/system-boundary.md)
 - [Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md](../../../02_my_notes/positioning_statements/Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md)
-

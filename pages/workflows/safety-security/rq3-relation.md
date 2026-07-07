@@ -10,7 +10,7 @@ RQ3 turns safety/security from a generic motivation into a specific research que
 
 ## RQ3 guardrails
 
-- It does not assume security is always the cause of safety problems.
+- It treats security as one possible contributor to safety problems, not their universal cause.
 - It does not collapse safety/security/assurance.
 - It asks how concerns meet, blur, separate, or become actionable.
 
@@ -18,4 +18,3 @@ RQ3 turns safety/security from a generic motivation into a specific research que
 
 - [RQ3 research-question.md](../../rqs/rq3/research-question.md)
 - [wiki/meta/rq-pathways.md](../../../wiki/meta/rq-pathways.md)
-

@@ -46,7 +46,7 @@ RQ3 is the thesis bridge between integration theory and safety/security stakes. 
 
 ## Open tensions
 
-See [open-tensions.md](open-tensions.md). The most important tension is whether RQ3 should stay focused on safety/security management across interfaces or absorb the stronger assurance-over-change problem currently compiled as RQ4.
+See [open-tensions.md](open-tensions.md). The most important tension is whether RQ3 should stay focused on safety/security management across interfaces or absorb the stronger assurance-over-change problem currently treated as RQ4.
 
 ## Reading route
 
@@ -55,4 +55,3 @@ Start with [research-question.md](research-question.md), then [concept-map.md](c
 ## Source provenance
 
 Detailed provenance is in [source-provenance.md](source-provenance.md).
-

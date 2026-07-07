@@ -12,7 +12,7 @@ RQ4 asks how claims about system properties survive, weaken, expire, or need re-
 
 ## Why it matters
 
-Assurance is not just a property claim; it is claim, evidence, scope, reasoning, and maintenance. Modular ROS 2-style systems can continue to work while the conditions that made previous evidence meaningful have drifted.
+Assurance involves property claims, evidence, scope, reasoning, and maintenance. Modular ROS 2-style systems can continue to work while the conditions that made previous evidence meaningful have drifted.
 
 ## How it relates to the thesis
 
@@ -52,4 +52,3 @@ Use [reading-route.md](reading-route.md).
 ## Source provenance
 
 Detailed provenance is in [source-provenance.md](source-provenance.md).
-

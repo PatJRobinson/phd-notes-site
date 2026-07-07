@@ -29,7 +29,7 @@ Assurance claim, deployment context, Rotifer nonclaims.
 
 ## Evidence
 
-Continuous assurance concept page and existing RQ3 compiled nonclaim boundary.
+Continuous assurance concept page and existing RQ3 nonclaim boundary.
 
 ## Counterpressure
 
@@ -43,4 +43,3 @@ active
 
 - [continuous-assurance.md](../../wiki/assurance/continuous-assurance.md)
 - [RQ3 research-question.md](../rqs/rq3/research-question.md)
-

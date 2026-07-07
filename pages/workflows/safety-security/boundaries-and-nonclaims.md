@@ -3,7 +3,7 @@
 ## Boundaries
 
 - Safety/security is a major concern area, not the only project object.
-- Safety/security is not currently the structural centre of the thesis spine.
+- Safety/security is not currently the structural centre of the core thesis argument.
 - RQ3 is the main safety/security question.
 - RQ4 handles assurance claims about safety/security and other properties.
 - Rotifer can evidence bounded assumptions; it does not enforce security.

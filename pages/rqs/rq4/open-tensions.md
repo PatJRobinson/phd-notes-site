@@ -6,7 +6,7 @@
 - Assurance vs safety/security: assurance is about claims/evidence/reasoning, not the property itself.
 - Continuous assurance: useful term, but must not imply the project solves it.
 - Rotifer's role: evidence tracing supports assurance thinking but is not full assurance.
-- Standards/literature anchoring remains thin in the compiled notes.
+- Standards/literature anchoring remains thin in the organised notes.
 
 ## Historical tensions that may still matter
 
@@ -21,7 +21,7 @@
 
 - Should RQ4 be a full empirical/theoretical chapter, a synthesis chapter, or both?
 - What exactly does RQ4 add that is not covered by RQ3? Current best answer: change over time, evidence validity, and maintenance of assurance claims.
-- How much assurance standards material needs to be compiled next?
+- How much assurance standards material needs to be integrated next?
 - Should Rotifer evidence objects be explicitly framed as assurance artefacts or only as research evidence?
 
 ## Risks if unresolved

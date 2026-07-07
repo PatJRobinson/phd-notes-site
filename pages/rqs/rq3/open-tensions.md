@@ -3,7 +3,7 @@
 ## Live tensions
 
 - RQ3 vs RQ4 boundary: RQ3 asks how safety/security concerns emerge and are managed across interfaces; RQ4 asks how assurance claims remain valid over change. Rotifer and fragmentation notes often speak in assurance language, so they can blur the boundary.
-- Safety/security relation: "no safety without security" is useful rhetorically, but the compiled layer must keep safety and security distinct.
+- Safety/security relation: "no safety without security" is useful rhetorically, but the organised notes must keep safety and security distinct.
 - Interface scope: the concept is powerful because it spans software, tooling, practice, and responsibility, but it risks becoming too broad.
 - Rotifer role: Rotifer currently supports assumption tracing and evidence binding more strongly than full safety/security assurance.
 - Empirical status: several RQ3 concepts are well-formed interview prompts but not yet findings.
@@ -23,7 +23,7 @@
 
 - Should command authority be the flagship RQ3 case or only one case among several?
 - Should SROS2 be treated as central to RQ3 or as a technical anchor for one strand?
-- Should responsibility handoffs be compiled as a type of interface or as a separate concept?
+- Should responsibility handoffs be treated as a type of interface or as a separate concept?
 - How strongly should the thesis use "assumption" language in RQ3?
 
 ## Risks if unresolved
@@ -40,4 +40,3 @@
 - [robotics-security-as-layer-misalignment.md](../../../02_my_notes/analysis_fragments/robotics-security-as-layer-misalignment.md)
 - [rotifer-forest-for-the-trees.md](../../../02_my_notes/analysis_fragments/rotifer-forest-for-the-trees.md)
 - [Threat Models and Mental Models.md](../../../04_research_methodologies/Threat%20Models%20and%20Mental%20Models.md)
-

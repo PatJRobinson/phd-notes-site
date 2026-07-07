@@ -20,7 +20,7 @@ Security failures can affect physical behaviour, while safety and security still
 
 ## In this PhD
 
-The project uses this relation to avoid both separation and collapse: security may be safety-relevant, but not every safety problem is a security problem. Safety/security is motivating and consequential, especially for RQ3, but it is not currently the structural centre of the thesis spine.
+The project uses this relation to avoid both separation and collapse: security may be safety-relevant, but not every safety problem is a security problem. Safety/security is motivating and consequential, especially for RQ3, while the core thesis argument remains centred on integration, assumptions, knowledge, practice, and assurance.
 
 ## In RQ3
 

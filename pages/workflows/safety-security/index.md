@@ -1,12 +1,12 @@
-# Safety/Security Workflow
+# Safety/Security Strand
 
 ## Purpose
 
-Compile how safety/security currently enters the PhD without overclaiming.
+Explain how safety/security currently enters the PhD without overclaiming.
 
 ## Current status
 
-Motivating and consequential, especially for RQ3, but not structurally central to the thesis spine. Current evidence is strongest around interfaces, command authority, configuration, responsibility, and visibility.
+Motivating and consequential, especially for RQ3, while the core thesis argument remains centred on integration, assumptions, knowledge, practice, and assurance. Current evidence is strongest around interfaces, command authority, configuration, responsibility, and visibility.
 
 ## Related RQs
 
@@ -25,7 +25,7 @@ Motivating and consequential, especially for RQ3, but not structurally central t
 
 ## Evidence base
 
-Command-authority case, RQ3 compiled layer, safety/security relation wiki page, interview concept map, DDS/ROS2/SROS2 substrate.
+Command-authority case, RQ3 notes, safety/security relation wiki page, interview concept map, DDS/ROS2/SROS2 substrate.
 
 ## Source notes
 
@@ -33,7 +33,7 @@ Command-authority case, RQ3 compiled layer, safety/security relation wiki page, 
 - [command_authority_design.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/command_authority_design.md)
 - [Core Concepts.md](../../../02_my_notes/Interview%20Preperation/Core%20Concepts.md)
 
-## Outputs this workflow supports
+## Outputs this work supports
 
 RQ3, Rotifer paper, thesis introduction/motivation, empirical interview framing.
 

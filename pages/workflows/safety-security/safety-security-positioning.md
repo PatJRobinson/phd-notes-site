@@ -2,7 +2,7 @@
 
 ## Current position
 
-Safety/security is a motivating and consequential force in the PhD, but it is not currently the structural centre of the thesis spine. It explains why robotics, human factors, architecture, and the funding/security context matter. The structural centre remains integration, assumptions, knowledge, practice, and assurance.
+Safety/security is a motivating and consequential force in the PhD. It explains why robotics, human factors, architecture, and the funding/security context matter. The central line of argument remains integration, assumptions, knowledge, practice, and assurance.
 
 The project is building a research apparatus for investigating security-relevant phenomena that ordinary cybersecurity approaches do not see well: how architecture, invariants, assumptions, sources of knowledge, mental models/working understanding, and practice shape what security can mean in ROS 2-style robotics.
 

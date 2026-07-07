@@ -23,7 +23,7 @@
 
 ## Safety/security evidence
 
-- Command-authority case compiled through [Rotifer trace evidence](rotifer-trace-evidence.md) and [Safety/security workflow](../workflows/safety-security/evidence-map.md). Strong as a safety/security example, not the current Rotifer/Nav2 paper centre.
+- Command-authority case appears in [Rotifer trace evidence](rotifer-trace-evidence.md) and the [Safety/security strand](../workflows/safety-security/evidence-map.md). Strong as a safety/security example, not the current Rotifer/Nav2 paper centre.
 - [DDS/ROS2 architectural substrate](dds-ros2-architectural-substrate.md)
 
 ## Conceptual evidence

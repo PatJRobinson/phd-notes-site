@@ -30,7 +30,7 @@ CP1 draft, aims/objectives form, current RQ redraft, methodology notes, Rotifer 
 - [cp1-aims-objectives-research-methods.md](../../../06_outputs/forms/cp1-aims-objectives-research-methods.md)
 - [methodological-justification.md](../../../04_research_methodologies/methodological-justification.md)
 
-## Outputs this workflow supports
+## Outputs this work supports
 
 Progression forms, supervisory discussions, institutional milestones.
 

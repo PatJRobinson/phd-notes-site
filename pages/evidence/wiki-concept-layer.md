@@ -24,7 +24,7 @@ It provides the clearest current vocabulary for compiling RQs without flattening
 
 ## In this PhD
 
-The wiki is a current-facing source layer, but still marked as seed/draft in many files.
+The wiki is a current source layer, but many files are still marked as seed or draft material.
 
 ## In relevant RQs
 
@@ -43,4 +43,3 @@ All RQs.
 ## Open tensions
 
 Many wiki pages still need source anchors.
-

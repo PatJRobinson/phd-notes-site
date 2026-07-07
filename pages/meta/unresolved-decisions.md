@@ -48,4 +48,4 @@
 
 - Whether to add a second safety/security case.
 - Whether secure-by-design remains title-level language.
-- Whether to compile a dedicated SROS2/DDS security subgraph.
+- Whether to develop a dedicated SROS2/DDS security section.

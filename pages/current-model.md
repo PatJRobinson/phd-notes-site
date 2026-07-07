@@ -39,13 +39,13 @@ Rotifer concepts: [Rotifer as assumption tracing](concepts/rotifer-as-assumption
 
 ## Active outputs
 
-- Compiled RQ layer under [rqs/](rqs/index.md).
-- Rotifer paper workflow under [workflows/rotifer-paper](workflows/rotifer-paper/index.md).
-- Safety/security workflow under [workflows/safety-security](workflows/safety-security/index.md).
-- Interviews/methodology workflow under [workflows/interviews-and-methodology](workflows/interviews-and-methodology/index.md).
-- Progression-report workflow under [workflows/progression-report](workflows/progression-report/index.md).
+- Organised research-question notes under [rqs/](rqs/index.md).
+- Rotifer paper strand under [workflows/rotifer-paper](workflows/rotifer-paper/index.md).
+- Safety/security strand under [workflows/safety-security](workflows/safety-security/index.md).
+- Interviews/methodology strand under [workflows/interviews-and-methodology](workflows/interviews-and-methodology/index.md).
+- Progression-report strand under [workflows/progression-report](workflows/progression-report/index.md).
 
-## Workflow map
+## Work area map
 
 - [Thesis core](workflows/thesis-core/index.md): project-wide coherence.
 - [Rotifer paper](workflows/rotifer-paper/index.md): executable assumption tracing and paper claim.
@@ -64,11 +64,11 @@ Rotifer concepts: [Rotifer as assumption tracing](concepts/rotifer-as-assumption
 
 ## Safety/security position
 
-Safety/security is motivating and consequential, especially through RQ3, but it is not currently the structural centre of the thesis spine. It gives meaning to the robotics/human-factors/security apparatus and the funding context, while the thesis spine remains integration, assumptions, knowledge, practice, and assurance. See [Safety/security workflow](workflows/safety-security/index.md).
+Safety/security is motivating and consequential, especially through RQ3, but it is not currently the structural centre of the core thesis argument. It gives meaning to the robotics/human-factors/security apparatus and the funding context, while the central line of argument remains integration, assumptions, knowledge, practice, and assurance. See the [Safety/security strand](workflows/safety-security/index.md).
 
 ## Rotifer position
 
-Rotifer is best compiled as executable assumption tracing and socio-technical legibility infrastructure. It makes experiment claims, assumptions, realisations, deployments, probes, and evidence inspectable. For the current Rotifer/Nav2 paper, the Nav2 evidence ladder is the main vehicle; command authority is a secondary safety/security-relevant example and possible follow-on paper. Rotifer is not a finished safety/security assurance method. See [Rotifer paper workflow](workflows/rotifer-paper/index.md).
+Rotifer is best understood as executable assumption tracing: a way to make experiment claims, assumptions, realisations, deployments, probes, and evidence easier to inspect. For the current Rotifer/Nav2 paper, the Nav2 evidence ladder is the main vehicle; command authority is a secondary safety/security-relevant example and possible follow-on paper. Rotifer is not being presented as a finished safety/security assurance method. See the [Rotifer paper strand](workflows/rotifer-paper/index.md).
 
 ## Notes on confidence
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Compile Rotifer as a paper/workflow around executable assumption tracing, concrete experiment realisation, and socio-technical legibility infrastructure.
+Develop the Rotifer paper around executable assumption tracing, concrete experiment realisation, and tools for making assumptions, evidence, and context easier to inspect.
 
 ## Current status
 
@@ -37,7 +37,7 @@ Active candidate paper. The paper centre is now resolved as evidence and assumpt
 - [command_authority_design.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/command_authority_design.md)
 - [case_study.md](../../../05_prototype_ideas/robotics-testbench-framework/results/command_authority/case_study.md)
 
-## Outputs this workflow supports
+## Outputs this work supports
 
 Rotifer paper, thesis methodology/evidence section, RQ3 safety/security case, RQ4 evidence-provenance discussion.
 

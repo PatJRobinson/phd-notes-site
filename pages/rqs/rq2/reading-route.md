@@ -28,7 +28,7 @@
 - [Fragmentation and Architectural Instability](../../../02_my_notes/positioning_statements/Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md)
 - [project-ideology.md](../../../05_prototype_ideas/robotics-testbench-framework/project-ideology.md)
 
-## Source notes mostly useful through compiled extracts
+## Source notes mostly useful through organised extracts
 
 - [Prevalence or 'ROSness'.md](../../../03_research_questions/Prevalence%20or%20'ROSness'.md)
 - [Architecture instability and the evolving role of the human.md](../../../02_my_notes/positioning_statements/Architecture%20instability%20and%20the%20evolving%20role%20of%20the%20human.md)

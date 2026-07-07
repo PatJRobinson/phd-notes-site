@@ -21,7 +21,7 @@ This gives RQ1 an observable object of study.
 
 ## Supports
 
-RQ1, interviews-and-methodology workflow.
+RQ1, interviews-and-methodology strand.
 
 ## Depends on
 
@@ -43,4 +43,3 @@ active
 
 - [working-understanding.md](../../wiki/concepts/working-understanding.md)
 - [note-on-analytical-approach.md](../../04_research_methodologies/note-on-analytical-approach.md)
-

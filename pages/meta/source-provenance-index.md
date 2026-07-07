@@ -24,7 +24,7 @@
 
 - Current RQ/wiki cluster: active and evidence-for.
 - Interview/methodology cluster: methodological-background and candidate-section-material.
-- Rotifer/dev cluster: evidence-for, candidate-section-material, and workflow material.
+- Rotifer/dev cluster: evidence-for, candidate-section-material, and work-area material.
 - Historical framings cluster: historical-origin-of, superseded-framing, recoverable-fragment.
 - CP1/progression cluster: stale-but-useful for institutional reporting.
 - Decision-resolution cluster: active source of current decisions for paper scope, safety/security position, SROS2, ROSness, and terminology.

@@ -32,15 +32,15 @@ Use in safety/security workflow or future standards chapter.
 
 ### Current classification
 
-recoverable-fragment, stale-but-useful
+recoverable-fragment, reusable-language, candidate-section-material
 
 ### Why recoverable
 
-It helps define "ROS 2-style robotics" beyond canonical ROS usage.
+It helps define "ROS 2-style robotics" beyond canonical ROS usage and should be promoted into the ROS 2-style robotics thread.
 
 ### Best current use
 
-Source-audit before using as evidence.
+Use as a source for the pragmatic definition of ROS as runtime/graph model, middleware substrate, and ecosystem of conventions. Preserve provenance that it came from an older security-invariant framing and includes some useful stream-of-consciousness research voice. Source-audit before using examples as public evidence.
 
 ## Human as overseer / assurance broker
 
@@ -69,4 +69,3 @@ It names the project's contribution as exposing socio-technical apparatuses thro
 ### Best current use
 
 Use sparingly in thesis positioning.
-

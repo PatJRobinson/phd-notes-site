@@ -17,7 +17,7 @@
 
 1. State the nonclaim boundary.
 2. Explain experiment claim and assumption tracing.
-3. Present command-authority baseline/violation.
-4. Use Nav2 ladder as broader method evidence if space permits.
-5. Discuss relation to SROS2 and assurance as future direction.
-
+3. Present the Nav2 evidence ladder as the main vehicle.
+4. Use command authority only as a secondary safety/security example or future-work bridge.
+5. Add a cautious discussion section on implications for safety/security reasoning.
+6. Discuss relation to SROS2 and assurance as future direction.

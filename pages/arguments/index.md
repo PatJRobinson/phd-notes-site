@@ -42,7 +42,7 @@
 ## Counterarguments / counterpressure
 
 - Rotifer is not a finished assurance/security method.
+- The current Rotifer/Nav2 paper should not be recentered around command authority or SROS2; those are secondary/future-facing safety/security threads.
 - Boundary instability should not mean boundary arbitrariness.
 - Interview concepts are scaffolding, not findings.
-- SROS2 should not be over-centred without deeper compilation.
-
+- SROS2 should be treated as important official ROS 2 security infrastructure and mediating technology, but not the thesis centre.

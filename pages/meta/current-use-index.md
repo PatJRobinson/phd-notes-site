@@ -7,6 +7,7 @@
 - RQ concept pages.
 - Rotifer command-authority case and paper notes.
 - Interview/methodology design notes.
+- Decision-resolution addenda from 2026-07-07.
 
 ## evidence-for
 
@@ -29,9 +30,9 @@
 ## unresolved-tension
 
 - RQ3/RQ4 safety-security/assurance boundary.
-- Rotifer paper centre.
-- SROS2 centrality.
-- Working understanding vs mental models.
+- RQ4's distinct contribution beyond RQ3.
+- Amount of command-authority material in the Rotifer/Nav2 paper.
+- SROS2 depth and usability analysis.
 
 ## reusable-language
 
@@ -54,7 +55,7 @@
 
 ## recoverable-fragment
 
-- ROSness.
+- ROSness, now promoted as valid for ROS 2-style robotics with older security-invariant provenance.
 - Human role/architecture instability.
 - Layer-misalignment.
 
@@ -67,4 +68,3 @@
 
 - RTB/backend terminology as current vocabulary.
 - Early duplicated problem statements as current framing.
-

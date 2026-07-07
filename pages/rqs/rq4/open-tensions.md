@@ -2,6 +2,7 @@
 
 ## Live tensions
 
+- RQ4 is retained for now, but it must justify what change-over-time adds beyond RQ3's safety/security-across-interfaces question.
 - Assurance vs safety/security: assurance is about claims/evidence/reasoning, not the property itself.
 - Continuous assurance: useful term, but must not imply the project solves it.
 - Rotifer's role: evidence tracing supports assurance thinking but is not full assurance.
@@ -18,7 +19,8 @@
 
 ## Decisions needed from me
 
-- Should RQ4 be a full empirical/theoretical chapter or a synthesis chapter?
+- Should RQ4 be a full empirical/theoretical chapter, a synthesis chapter, or both?
+- What exactly does RQ4 add that is not covered by RQ3? Current best answer: change over time, evidence validity, and maintenance of assurance claims.
 - How much assurance standards material needs to be compiled next?
 - Should Rotifer evidence objects be explicitly framed as assurance artefacts or only as research evidence?
 
@@ -33,4 +35,4 @@
 - [assurance-claim.md](../../../wiki/assurance/assurance-claim.md)
 - [continuous-assurance.md](../../../wiki/assurance/continuous-assurance.md)
 - [Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md](../../../02_my_notes/positioning_statements/Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md)
-
+- [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)

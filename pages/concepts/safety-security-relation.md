@@ -20,7 +20,7 @@ Security failures can affect physical behaviour, while safety and security still
 
 ## In this PhD
 
-The project uses this relation to avoid both separation and collapse: security may be safety-relevant, but not every safety problem is a security problem.
+The project uses this relation to avoid both separation and collapse: security may be safety-relevant, but not every safety problem is a security problem. Safety/security is motivating and consequential, especially for RQ3, but it is not currently the structural centre of the thesis spine.
 
 ## In RQ3
 
@@ -36,8 +36,8 @@ RQ3 asks how this relation appears and is managed across interfaces during integ
 
 - [safety-security-relation.md](../../wiki/assurance/safety-security-relation.md)
 - [research-questions-redraft-16-06-26.md](../../03_research_questions/research-questions-redraft-16-06-26.md)
+- [decision-resolution_2026-07-07.md](../../inbox/decision-resolution_2026-07-07.md)
 
 ## Open tensions
 
-The rhetorical idea that there may be "no safety without security" is useful but must not become a conceptual collapse.
-
+The rhetorical idea that there may be "no safety without security" is useful but must not become a conceptual collapse or a reason to recenter every thesis output as a security evaluation.

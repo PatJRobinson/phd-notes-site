@@ -18,7 +18,7 @@ A situated, practical, partial grasp of how a system behaves well enough to buil
 
 ## Why it matters
 
-It shifts the project away from judging private mental models and toward observable practice and evidence surfaces.
+It gives the project an operational way to discuss understanding through practice and evidence surfaces. A new decision note records that "mental models" and "working understanding" can be used more or less interchangeably at this stage; working understanding remains the safer term when making methodological claims about observable practice.
 
 ## In this PhD
 
@@ -32,15 +32,16 @@ Working understanding is the RQ1 core and a support concept for RQ4 assurance ma
 ## Relations
 
 - `depends_on` [Partial observability](partial-observability.md)
-- `extends` mental-model language while softening it
+- `extends` mental-model language while keeping it usable
 - `supports` [Working understanding is artefact-mediated](../arguments/working-understanding-is-artefact-mediated.md)
 
 ## Source provenance
 
 - [working-understanding.md](../../wiki/concepts/working-understanding.md)
 - [Threat Models and Mental Models.md](../../04_research_methodologies/Threat%20Models%20and%20Mental%20Models.md)
+- [Working understanding vs mental model](../../wiki/meta/concept-boundaries/working-understanding-vs-mental-model.md)
+- [decision-resolution_2026-07-07.md](../../inbox/decision-resolution_2026-07-07.md)
 
 ## Open tensions
 
-Whether "mental model" remains a thesis term or is retained only as a methodological bridge.
-
+The distinction remains a methodological caution, not a hard vocabulary ban.

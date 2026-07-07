@@ -3,7 +3,7 @@
 ## Live tensions
 
 - Boundary instability vs boundary construction: avoid claiming boundaries do not exist.
-- ROSness: industrial ROS usage may involve heavy workflow augmentation, but current source note needs careful verification.
+- ROSness: the source note is now promoted as valid for the ROS 2-style robotics thread, but it carries older security-invariant provenance and should be source-audited before public/evidence-heavy use.
 - MOSA: highly relevant to modularity but may pull RQ2 toward broader defence/procurement debates.
 - Rotifer: useful for modelling boundaries, but should not become the only evidence source.
 
@@ -20,7 +20,7 @@
 
 - Which boundary types should be named: ROS graph, deployment, network, responsibility, evidence, assurance, provider, scenario?
 - How much MOSA belongs in the main RQ2 argument?
-- Should "ROSness" become a compiled concept after source audit?
+- How should ROSness be rewritten into a stable concept while preserving enough of the source note's research voice?
 
 ## Risks if unresolved
 
@@ -33,4 +33,4 @@
 - [Prevalence or 'ROSness'.md](../../../03_research_questions/Prevalence%20or%20'ROSness'.md)
 - [robotics-security-as-layer-misalignment.md](../../../02_my_notes/analysis_fragments/robotics-security-as-layer-misalignment.md)
 - [Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md](../../../02_my_notes/positioning_statements/Fragmentation_and_Architectural_Instability_as_Challenges_for_Assurance.md)
-
+- [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)

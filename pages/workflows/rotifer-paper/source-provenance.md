@@ -42,6 +42,20 @@ Evidence ladder from topic presence through bounded navigation and controller va
 
 [evidence-map.md](evidence-map.md), [contribution-map.md](contribution-map.md).
 
+## inbox/decision-resolution_2026-07-07.md
+
+### Current use
+
+evidence-for
+
+### What was carried forward
+
+The paper centre is now resolved as evidence and assumption-tracing methodology, with the Nav2 ladder as primary vehicle. Safety/security should be threaded as motivation/consequence. Command authority is secondary and likely follow-on material.
+
+### Where it appears
+
+[index.md](index.md), [paper-claim.md](paper-claim.md), [safety-security-thread.md](safety-security-thread.md), [open-tensions.md](open-tensions.md), [writing-route.md](writing-route.md).
+
 ## 05_prototype_ideas/robotics-testbench-framework/rotifer-devlog-20-05-26.md
 
 ### Current use
@@ -55,4 +69,3 @@ Command-authority evidence checks, odom displacement, and assumption-level resul
 ### Where it appears
 
 [evidence-map.md](evidence-map.md), [contribution-map.md](contribution-map.md).
-

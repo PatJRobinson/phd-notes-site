@@ -3,8 +3,8 @@
 ## Research question wording
 
 - Decide whether each RQ should explicitly say "ROS 2-style robotics".
-- Decide whether RQ1 should fully replace "mental models" with "working understanding".
-- Decide whether RQ4 is a full RQ, a synthesis chapter, or both.
+- RQ1 terminology is mostly resolved for now: "mental models" and "working understanding" can be used interchangeably at this stage, with "working understanding" as the safer operational term.
+- RQ4 is retained for now, but still needs to show whether it is a full RQ, a synthesis chapter, or both.
 
 ## Concept naming
 
@@ -12,14 +12,14 @@
 - Decide whether `command authority` is a concept, case, invariant, or all three.
 - Decide whether responsibility handoffs are interfaces or a separate concept.
 - Decide whether `visibility and observability` should be split.
-- Decide whether `ROSness` should be promoted after source audit.
+- ROSness is now promoted as a valid source for the ROS 2-style robotics thread, with older security-invariant provenance retained.
 
 ## Scope boundaries
 
 - Keep RQ3 distinct from RQ4 unless deliberately merging the assurance thread.
 - Decide how central Rotifer is to the thesis as a whole.
-- Decide how much SROS2 belongs in RQ3 versus background/future work.
-- Decide whether safety/security is the thesis centre or the sharpest application of a broader integration account.
+- SROS2 is now positioned as an important mediating technology and official ROS 2 security mechanism, not the thesis centre.
+- Safety/security is now positioned as motivating/consequential rather than structurally central.
 
 ## Evidence gaps
 
@@ -39,7 +39,7 @@
 
 ## Rotifer paper decisions
 
-- Command authority vs Nav2 ladder as centre.
+- Nav2 ladder and assumption-tracing methodology are now the paper centre; command authority is secondary/security-relevant and possible follow-on paper material.
 - Tool paper vs method paper vs thesis evidence chapter.
 - How much implementation detail to include.
 - Whether SROS2 is future work or a paper discussion section.
@@ -49,4 +49,3 @@
 - Whether to add a second safety/security case.
 - Whether secure-by-design remains title-level language.
 - Whether to compile a dedicated SROS2/DDS security subgraph.
-

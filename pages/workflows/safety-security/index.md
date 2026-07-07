@@ -6,7 +6,7 @@ Compile how safety/security currently enters the PhD without overclaiming.
 
 ## Current status
 
-Central to motivation and RQ3, important to RQ4, but not the whole thesis. Current evidence is strongest around interfaces, command authority, configuration, responsibility, and visibility.
+Motivating and consequential, especially for RQ3, but not structurally central to the thesis spine. Current evidence is strongest around interfaces, command authority, configuration, responsibility, and visibility.
 
 ## Related RQs
 
@@ -39,9 +39,8 @@ RQ3, Rotifer paper, thesis introduction/motivation, empirical interview framing.
 
 ## Open decisions
 
-How central safety/security should be relative to broader integration/assurance framing.
+How strongly to foreground safety/security in each output without recentering the thesis away from integration, assumptions, knowledge, practice, and assurance.
 
 ## Reading route
 
 Use [reading-route.md](reading-route.md).
-

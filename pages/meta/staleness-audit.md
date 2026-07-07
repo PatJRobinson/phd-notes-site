@@ -136,11 +136,11 @@ Before next progression/reporting submission.
 
 ### Classification
 
-recoverable-fragment, stale-but-useful
+recoverable-fragment, reusable-language, candidate-section-material
 
 ### What it currently contributes
 
-Useful idea that ROS may be a runtime/graph model, middleware substrate, and ecosystem of conventions augmented by external deployment systems.
+Useful idea that ROS may be a runtime/graph model, middleware substrate, and ecosystem of conventions augmented by external deployment systems. The July decision note promotes it as valid for the ROS 2-style robotics thread, with older security-invariant provenance preserved.
 
 ### Where it has been compiled
 
@@ -148,11 +148,11 @@ Useful idea that ROS may be a runtime/graph model, middleware substrate, and eco
 
 ### Human judgement
 
-High. The note contains web-derived examples and should be source-audited before heavy use.
+Medium. The note is valid and promotable, but examples should be source-audited before public/evidence-heavy use.
 
 ### Revisit later
 
-Run a targeted source audit or rewrite as an authored current note.
+Run a targeted source audit and rewrite as an authored current ROS 2-style robotics / ROSness note.
 
 ## NotebookLM / commissioned analysis fragments
 
@@ -175,4 +175,3 @@ High. These should not become claims without source review.
 ### Revisit later
 
 Only when targeting a specific chapter or claim.
-

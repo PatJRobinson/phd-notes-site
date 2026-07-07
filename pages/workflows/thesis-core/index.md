@@ -38,11 +38,12 @@ Thesis outline, progression report, chapter planning, current-model updates.
 
 - How central Rotifer is to the thesis as a whole.
 - Whether assumption/misalignment vocabulary remains mechanism or sensitising concept.
-- How safety/security relates to broader integration/assurance framing.
+- RQ4's eventual form: full RQ, synthesis chapter, or both.
+- How much safety/security to foreground in each output, given that it is motivating/consequential but not structurally central.
 
 ## Reading route
 
 1. [Current Model](../../current-model.md)
 2. [Research Questions](../../rqs/index.md)
 3. [candidate-structure.md](../../../02_my_notes/thesis_stuff/candidate-structure.md)
-
+4. [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)

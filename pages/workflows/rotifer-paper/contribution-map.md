@@ -4,11 +4,13 @@
 
 A representational and executable workflow for tracing assumptions across robotics experiment claims, realisations, deployment conditions, probes, and evidence.
 
+For the current paper, this contribution should be demonstrated primarily through the Nav2 evidence ladder rather than through command authority.
+
 ## Secondary contributions
 
-- A command-authority case showing a declared assumption preserved in baseline and violated under controlled perturbation.
 - A Nav2 evidence ladder showing progressive movement from topic presence to semantic frame/timing/controller evidence.
 - A vocabulary for experiments, providers, realisations, deployment traces, probes, and assumption outcomes.
+- A command-authority case showing a declared assumption preserved in baseline and violated under controlled perturbation, currently best treated as a secondary safety/security example or follow-on paper material.
 
 ## Relation to thesis
 
@@ -26,4 +28,4 @@ The contribution is explanatory and methodological, not an enforcement mechanism
 - [positioning_statements.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/positioning_statements.md)
 - [rotifer-devlog-20-05-26.md](../../../05_prototype_ideas/robotics-testbench-framework/rotifer-devlog-20-05-26.md)
 - [Canonical Nav2 Evidence Ladder.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/Canonical%20Nav2%20Evidence%20Ladder.md)
-
+- [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)

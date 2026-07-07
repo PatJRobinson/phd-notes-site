@@ -6,6 +6,7 @@
 - [research-questions-redraft-16-06-26.md](../../03_research_questions/research-questions-redraft-16-06-26.md)
 - [wiki/meta/rq-pathways.md](../../wiki/meta/rq-pathways.md)
 - [wiki/meta/concept-map.md](../../wiki/meta/concept-map.md)
+- [decision-resolution_2026-07-07.md](../../inbox/decision-resolution_2026-07-07.md)
 
 ## RQ source-provenance files
 
@@ -26,4 +27,4 @@
 - Rotifer/dev cluster: evidence-for, candidate-section-material, and workflow material.
 - Historical framings cluster: historical-origin-of, superseded-framing, recoverable-fragment.
 - CP1/progression cluster: stale-but-useful for institutional reporting.
-
+- Decision-resolution cluster: active source of current decisions for paper scope, safety/security position, SROS2, ROSness, and terminology.

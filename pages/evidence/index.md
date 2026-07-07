@@ -5,6 +5,7 @@
 - [Rotifer trace evidence](rotifer-trace-evidence.md)
 - [Rotifer positioning and project ideology](rotifer-positioning-and-project-ideology.md)
 - [Nav2 evidence ladder](nav2-evidence-ladder.md)
+- Decision-resolution source now clarifies that the Nav2 evidence ladder is the current Rotifer/Nav2 paper centre.
 
 ## Case/implementation evidence
 
@@ -22,7 +23,7 @@
 
 ## Safety/security evidence
 
-- Command-authority case compiled through [Rotifer trace evidence](rotifer-trace-evidence.md) and [Safety/security workflow](../workflows/safety-security/evidence-map.md).
+- Command-authority case compiled through [Rotifer trace evidence](rotifer-trace-evidence.md) and [Safety/security workflow](../workflows/safety-security/evidence-map.md). Strong as a safety/security example, not the current Rotifer/Nav2 paper centre.
 - [DDS/ROS2 architectural substrate](dds-ros2-architectural-substrate.md)
 
 ## Conceptual evidence
@@ -35,4 +36,3 @@
 - Standards-specific assurance audit.
 - Additional safety/security case beyond command authority.
 - External/user evaluation of Rotifer.
-

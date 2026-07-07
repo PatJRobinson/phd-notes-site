@@ -2,10 +2,10 @@
 
 ## Target
 
-Extended compile pass:
+Extended compile pass, refreshed on 2026-07-07 after decision-resolution contributions:
 
 - `targets`: rq1, rq2, rq4, rotifer-paper, safety-security
-- `modes`: bootstrap_compile, audit_staleness, compile_workflows
+- `modes`: refresh_compile, audit_staleness, compile_workflows
 - `apply_changes`: true
 - `source_policy`: preserve
 - `compiled_dir`: compiled-notes
@@ -45,10 +45,13 @@ Reused the prior RQ3 source set and additionally inspected source files for RQ1/
 - RQ1 is working understanding in practice.
 - RQ2 is system boundaries under modularity/configuration/deployment context.
 - RQ3 remains safety/security across interfaces.
-- RQ4 is assurance-over-change.
-- Rotifer paper should be framed as executable assumption tracing, with command authority as the strongest safety/security worked case.
-- Safety/security is central to RQ3 but should be bounded by explicit nonclaims.
-- Older assumption/misalignment and ROSness material is recoverable but needs careful handling.
+- RQ4 is assurance-over-change and is retained for now, but must justify what change-over-time adds beyond RQ3.
+- Rotifer/Nav2 paper should be framed around evidence and assumption-tracing methodology, with the Nav2 ladder as the primary vehicle.
+- Command authority is security-relevant, but secondary for the current Rotifer/Nav2 paper and likely follow-on material.
+- Safety/security is motivating and consequential, not structurally central to the thesis spine.
+- SROS2 is an important mediating technology and official ROS 2 security mechanism, not the thesis centre.
+- Mental models and working understanding can be used interchangeably at this stage; working understanding remains the safer operational term.
+- ROSness is promoted as valid for the ROS 2-style robotics thread, with older security-invariant provenance preserved.
 
 ## Files created
 
@@ -64,10 +67,10 @@ Updated/replaced:
 
 ## Important uncertainties
 
-- Rotifer paper centre: command authority, Nav2 ladder, or both.
 - Whether RQ4 is empirical, methodological, or primarily synthesis.
 - How strong to make secure-by-design and SROS2 language.
 - Which recoverable fragments deserve promotion.
+- How much command-authority and SROS2 material belongs in the current Rotifer/Nav2 paper discussion.
 
 ## Recommended next compilation flags
 
@@ -78,4 +81,3 @@ Updated/replaced:
 - `mode: source_audit`
 - `mode: compile_literature`
 - `mode: paper_outline`
-

@@ -28,7 +28,7 @@ It is not claiming continuous assurance is already solved. It is not asking only
 
 ## Current confidence
 
-High. The wording is explicit in the current RQ redraft and wiki pathways, and the previous RQ3 compile correctly separated it as adjacent/RQ4.
+Medium-high. The wording is explicit in the current RQ redraft and wiki pathways, and the previous RQ3 compile correctly separated it as adjacent/RQ4. A new decision note keeps all four RQs for now, while preserving the tension that RQ4 must justify what change-over-time adds beyond RQ3.
 
 ## Source provenance
 
@@ -36,4 +36,4 @@ High. The wording is explicit in the current RQ redraft and wiki pathways, and t
 - [wiki/meta/rq-pathways.md](../../../wiki/meta/rq-pathways.md)
 - [wiki/assurance/assurance-claim.md](../../../wiki/assurance/assurance-claim.md)
 - [wiki/assurance/continuous-assurance.md](../../../wiki/assurance/continuous-assurance.md)
-
+- [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)

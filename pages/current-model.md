@@ -57,20 +57,19 @@ Rotifer concepts: [Rotifer as assumption tracing](concepts/rotifer-as-assumption
 ## Known drifts or unstable areas
 
 - Earlier assumption/misalignment language remains useful but can overdetermine the broader RQ framing.
-- RQ3 and RQ4 remain adjacent; safety/security concerns can become assurance claims, but they are not the same thing.
+- RQ3 and RQ4 remain adjacent; safety/security concerns can become assurance claims, but they are not the same thing. RQ4 is retained for now, with an explicit need to show what change-over-time adds.
 - Rotifer can be misread as a portability, benchmarking, security, or assurance tool unless its assumption-tracing boundary is explicit.
-- ROSness/prevalence notes need source audit before heavy use.
-- SROS2 should not be over-centred without deeper literature/source compilation.
+- ROSness/prevalence is now promoted as valid for the ROS 2-style robotics thread, but its older security-invariant provenance should remain visible and its examples need public/source audit before heavy use.
+- SROS2 should be treated as an important mediating technology and official ROS 2 security mechanism, but not as the thesis centre.
 
 ## Safety/security position
 
-Safety/security is central to RQ3 and motivationally important to the thesis, but the current project should claim only bounded things: safety/security concerns can emerge at interfaces; command authority is a worked safety/security-relevant assumption; configuration, deployment, visibility, and responsibility shape management. See [Safety/security workflow](workflows/safety-security/index.md).
+Safety/security is motivating and consequential, especially through RQ3, but it is not currently the structural centre of the thesis spine. It gives meaning to the robotics/human-factors/security apparatus and the funding context, while the thesis spine remains integration, assumptions, knowledge, practice, and assurance. See [Safety/security workflow](workflows/safety-security/index.md).
 
 ## Rotifer position
 
-Rotifer is best compiled as executable assumption tracing and socio-technical legibility infrastructure. It makes experiment claims, assumptions, realisations, deployments, probes, and evidence inspectable. It is not a finished safety/security assurance method. See [Rotifer paper workflow](workflows/rotifer-paper/index.md).
+Rotifer is best compiled as executable assumption tracing and socio-technical legibility infrastructure. It makes experiment claims, assumptions, realisations, deployments, probes, and evidence inspectable. For the current Rotifer/Nav2 paper, the Nav2 evidence ladder is the main vehicle; command authority is a secondary safety/security-relevant example and possible follow-on paper. Rotifer is not a finished safety/security assurance method. See [Rotifer paper workflow](workflows/rotifer-paper/index.md).
 
 ## Notes on confidence
 
-Confidence is high on RQ wording and RQ3/RQ4 separation because the wiki pathway and June RQ redraft align. Confidence is medium on Rotifer's final paper shape because command authority and Nav2 evidence ladder both have strong claims. Confidence is lower on ROSness/prevalence and some broader safety/security literature positioning because those notes require source audit.
-
+Confidence is high on RQ wording and RQ3/RQ4 separation because the wiki pathway, June RQ redraft, and July decision note align. Confidence is now higher on the Rotifer paper centre: Nav2 ladder/methodology first, command authority second. Confidence is medium on ROSness/prevalence as a source: it is valid and promotable, but still needs careful public grounding.

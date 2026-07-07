@@ -23,9 +23,15 @@ Motivating and consequential, especially for RQ3, while the core thesis argument
 
 [Safety/security emerges at integration interfaces](../../arguments/safety-security-emerges-at-integration-interfaces.md), [Abstractions displace system-level responsibility](../../arguments/abstractions-displace-system-level-responsibility.md).
 
+## Detailed subject pages
+
+- [Integration interface position](integration-interface-position.md): current safety/security argument without recentering the whole thesis.
+- [ROS 2 security configuration surface](ros2-security-configuration-surface.md): DDS Security, SROS2, policy semantics, configuration, and deployment assumptions.
+- [Evidence and provenance](evidence-and-provenance.md): public literature anchors, internal sources, and missing evidence.
+
 ## Evidence base
 
-Command-authority case, RQ3 notes, safety/security relation wiki page, interview concept map, DDS/ROS2/SROS2 substrate.
+Command-authority case, RQ3 notes, safety/security relation wiki page, interview concept map, DDS/ROS2/SROS2 substrate, and the new `01_literature` anchors for NIST SP 800-160, IEC 62443, ISO 10218, Leveson, DDS Security, SROS2, ROS 2 design documents, and Canelas ROS misconfigurations.
 
 ## Source notes
 
@@ -43,4 +49,4 @@ How strongly to foreground safety/security in each output without recentering th
 
 ## Reading route
 
-Use [reading-route.md](reading-route.md).
+Start with [integration interface position](integration-interface-position.md), then [ROS 2 security configuration surface](ros2-security-configuration-surface.md), then [evidence and provenance](evidence-and-provenance.md), then [reading-route.md](reading-route.md).

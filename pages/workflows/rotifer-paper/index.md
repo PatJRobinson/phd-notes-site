@@ -23,6 +23,13 @@ Active candidate paper. The paper centre is now resolved as evidence and assumpt
 
 [Executable assumption tracing turns failures into evidence](../../arguments/executable-assumption-tracing-turns-failures-into-evidence.md), [Deployment context changes system meaning](../../arguments/deployment-context-changes-system-meaning.md).
 
+## Detailed subject pages
+
+- [Assumption-tracing method](assumption-tracing-method.md): what Rotifer contributes methodologically.
+- [Nav2 evidence ladder](nav2-evidence-ladder-subject.md): why the Nav2 sequence is the current paper centre.
+- [Security relevance and nonclaims](security-relevance-and-nonclaims.md): how command authority and future SROS2/DDS Security work relate without overclaiming.
+- [Evidence and provenance](evidence-and-provenance.md): separates implementation evidence, literature grounding, internal design notes, and missing evidence.
+
 ## Evidence base
 
 [Rotifer trace evidence](../../evidence/rotifer-trace-evidence.md), [Nav2 evidence ladder](../../evidence/nav2-evidence-ladder.md), [Rotifer positioning and project ideology](../../evidence/rotifer-positioning-and-project-ideology.md).
@@ -49,4 +56,4 @@ Rotifer paper, thesis methodology/evidence section, RQ3 safety/security case, RQ
 
 ## Reading route
 
-Use [writing-route.md](writing-route.md).
+Start with [assumption-tracing method](assumption-tracing-method.md), then [Nav2 evidence ladder](nav2-evidence-ladder-subject.md), then [security relevance and nonclaims](security-relevance-and-nonclaims.md), then [writing-route.md](writing-route.md).

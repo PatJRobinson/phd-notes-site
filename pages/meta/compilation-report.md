@@ -1,5 +1,52 @@
 # Compilation Report
 
+## 2026-07-07 Detailed Workflow Page Pass
+
+### Target
+
+Workflow compile pass focused on detailed subject pages where the source notes are rich enough to support them, with the new `01_literature` evidence anchors reflected in compiled pages.
+
+### Files created
+
+- `compiled-notes/workflows/interviews-and-methodology/methodological-positioning.md`
+- `compiled-notes/workflows/interviews-and-methodology/interview-design.md`
+- `compiled-notes/workflows/interviews-and-methodology/analysis-plan.md`
+- `compiled-notes/workflows/interviews-and-methodology/evidence-and-provenance.md`
+- `compiled-notes/workflows/interviews-and-methodology/open-tensions.md`
+- `compiled-notes/workflows/rotifer-paper/assumption-tracing-method.md`
+- `compiled-notes/workflows/rotifer-paper/nav2-evidence-ladder-subject.md`
+- `compiled-notes/workflows/rotifer-paper/security-relevance-and-nonclaims.md`
+- `compiled-notes/workflows/rotifer-paper/evidence-and-provenance.md`
+- `compiled-notes/workflows/safety-security/integration-interface-position.md`
+- `compiled-notes/workflows/safety-security/ros2-security-configuration-surface.md`
+- `compiled-notes/workflows/safety-security/evidence-and-provenance.md`
+
+### Files updated
+
+- `compiled-notes/workflows/index.md`
+- `compiled-notes/workflows/interviews-and-methodology/index.md`
+- `compiled-notes/workflows/rotifer-paper/index.md`
+- `compiled-notes/workflows/safety-security/index.md`
+- `compiled-notes/evidence/index.md`
+- `compiled-notes/evidence/dds-ros2-architectural-substrate.md`
+
+### Main inferences
+
+- Interviews/methodology is the richest candidate for detailed pages. The current method is best compiled as contextualist, abductive, reflexive thematic analysis supported by a structured assumption-elicitation protocol.
+- Rotifer is strong enough for detailed pages around the assumption-tracing method and the Nav2 evidence ladder. Command authority remains security-relevant but secondary for the current paper centre.
+- Safety/security is strong enough for detailed pages around integration interfaces and the ROS 2/DDS/SROS2 configuration surface, but not for broad claims that Rotifer secures ROS 2.
+- The new `01_literature` notes now provide public grounding categories for methodology/practice, middleware/security, standards, systems safety, and ROS misconfiguration. Several still need exact bibliographic details and section-level extraction.
+
+### Verification
+
+Checked local markdown links in the affected workflow/evidence pages with URL-decoded paths. Links resolved.
+
+### Remaining weaknesses
+
+- No participant findings are compiled yet.
+- The new literature evidence items are useful anchors but many remain working notes rather than citation-complete sources.
+- Future security-suite ideas are design scaffold unless implemented and evidenced.
+
 ## Target
 
 Extended organising pass, refreshed on 2026-07-07 after decision-resolution contributions and the new audience/language policy:

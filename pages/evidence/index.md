@@ -15,6 +15,9 @@
 ## Literature evidence
 
 - [DDS/ROS2 architectural substrate](dds-ros2-architectural-substrate.md)
+- Methodology/practice anchors now appear in [Interviews and methodology evidence and provenance](../workflows/interviews-and-methodology/evidence-and-provenance.md): Braun and Clarke, Hollnagel, Hutchins, Star and Ruhleder, and Suchman.
+- Safety/security and middleware anchors now appear in [Safety/security evidence and provenance](../workflows/safety-security/evidence-and-provenance.md): NIST SP 800-160, IEC 62443, ISO 10218, Leveson, ROS 2 design documents, DDS, DDS Security, SROS2, and Canelas ROS misconfigurations.
+- Rotifer technical grounding now appears in [Rotifer paper evidence and provenance](../workflows/rotifer-paper/evidence-and-provenance.md).
 
 ## Methodology/interview evidence
 
@@ -36,3 +39,4 @@
 - Standards-specific assurance audit.
 - Additional safety/security case beyond command authority.
 - External/user evaluation of Rotifer.
+- Exact bibliographic details and source-section extraction for several new `01_literature` evidence items.

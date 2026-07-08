@@ -47,6 +47,15 @@ const config: Config = {
         sidebarPath: './sidebarsWiki.ts',
       } satisfies DocsOptions,
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'literature',
+        path: '01_literature',
+        routeBasePath: '01_literature',
+        sidebarPath: './sidebarsLiterature.ts',
+      } satisfies DocsOptions,
+    ],
   ],
 
   themeConfig: {
@@ -66,6 +75,13 @@ const config: Config = {
           docsPluginId: 'wiki',
           position: 'left',
           label: 'Wiki',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'literatureSidebar',
+          docsPluginId: 'literature',
+          position: 'left',
+          label: 'Literature',
         },
         {
           href: 'https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME',

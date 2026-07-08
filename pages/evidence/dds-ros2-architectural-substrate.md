@@ -40,10 +40,10 @@ It anchors the technical side of interface safety/security.
 
 - [dds_ros2_starter_pack.md](../../02_my_notes/dds_ros2_starter_pack.md)
 - [sros2.md](../../wiki/ros2/sros2.md)
-- [ROS 2 design documents](../../01_literature/middleware-and-standards/ros2-design-documents.md)
-- [DDS specification](../../01_literature/middleware-and-standards/dds-specification.md)
-- [DDS Security specification](../../01_literature/middleware-and-standards/dds-security-specification.md)
-- [SROS2 usable security tools](../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
+- [ROS 2 design documents](/01_literature/middleware-and-standards/ros2-design-documents)
+- [DDS specification](/01_literature/middleware-and-standards/dds-specification)
+- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification)
+- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
 
 ## Open tensions
 

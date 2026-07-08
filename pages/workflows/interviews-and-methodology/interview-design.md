@@ -61,10 +61,10 @@ The guide still needs calibration around participant type. "ROS developer", "int
 
 ## Public sources
 
-- [Hollnagel literature note](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md)
-- [Hutchins literature note](../../../01_literature/hci-infrastructure-practice/hutchins-distributed-cognition.md)
-- [Star and Ruhleder literature note](../../../01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure.md)
-- [Suchman literature note](../../../01_literature/hci-infrastructure-practice/suchman-situated-action.md)
+- [Hollnagel literature note](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done)
+- [Hutchins literature note](/01_literature/hci-infrastructure-practice/hutchins-distributed-cognition)
+- [Star and Ruhleder literature note](/01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure)
+- [Suchman literature note](/01_literature/hci-infrastructure-practice/suchman-situated-action)
 
 ## Internal provenance
 

@@ -26,11 +26,11 @@ Green for a bounded method paper centred on Nav2 evidence interpretation. Amber 
 
 ## Public sources
 
-- [ROS 2 design documents](../../../01_literature/middleware-and-standards/ros2-design-documents.md)
-- [DDS specification](../../../01_literature/middleware-and-standards/dds-specification.md)
-- [DDS Security specification](../../../01_literature/middleware-and-standards/dds-security-specification.md)
-- [SROS2 usable security tools](../../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
-- [Canelas ROS misconfigurations](../../../01_literature/ros-and-robotics-se/canelas-ros-misconfigurations.md)
+- [ROS 2 design documents](/01_literature/middleware-and-standards/ros2-design-documents)
+- [DDS specification](/01_literature/middleware-and-standards/dds-specification)
+- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification)
+- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
+- [Canelas ROS misconfigurations](/01_literature/ros-and-robotics-se/canelas-ros-misconfigurations)
 
 ## Internal provenance
 

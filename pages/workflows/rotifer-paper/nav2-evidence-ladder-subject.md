@@ -48,8 +48,8 @@ The ladder still needs translation into paper prose and figures. It also needs a
 
 ## Public sources
 
-- [ROS 2 design documents](../../../01_literature/middleware-and-standards/ros2-design-documents.md)
-- [DDS specification](../../../01_literature/middleware-and-standards/dds-specification.md)
+- [ROS 2 design documents](/01_literature/middleware-and-standards/ros2-design-documents)
+- [DDS specification](/01_literature/middleware-and-standards/dds-specification)
 
 ## Internal provenance
 

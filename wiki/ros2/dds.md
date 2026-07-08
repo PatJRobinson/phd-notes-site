@@ -32,7 +32,7 @@ DDS is treated as an architectural layer that shapes what ROS 2-style systems ca
 ## Sources and anchors
 
 - [DDS + ROS 2 starter pack](../../02_my_notes/dds_ros2_starter_pack.md)
-- [The DDS Protocol is Critical](../../01_literature/B_ros_architecture_and_practice/The-Data-Distribution-Service-DDS-Protocol-is-Critical-Lets-Use-it-Securely.md)
+- [DDS specification](/01_literature/middleware-and-standards/dds-specification)
 
 ## Open questions
 

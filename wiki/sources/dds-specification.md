@@ -37,4 +37,4 @@ The DDS specification should not be treated as evidence of how ROS 2 integrators
 
 - Internal anchor: [research questions and contributions, 20-04-26](../../03_research_questions/research-questions-and-contributions-and-risks-20_04_26.md)
 - URL noted there: `https://www.omg.org/spec/DDS/`
-- Related literature note: [The DDS Protocol is Critical](../../01_literature/B_ros_architecture_and_practice/The-Data-Distribution-Service-DDS-Protocol-is-Critical-Lets-Use-it-Securely.md)
+- Related literature note: [DDS specification](/01_literature/middleware-and-standards/dds-specification)

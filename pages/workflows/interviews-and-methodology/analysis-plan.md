@@ -63,8 +63,8 @@ The largest unresolved decision is whether the assumption record itself becomes 
 
 ## Public sources
 
-- [Braun and Clarke literature note](../../../01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis.md)
-- [Hollnagel literature note](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md)
+- [Braun and Clarke literature note](/01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis)
+- [Hollnagel literature note](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done)
 
 ## Internal provenance
 

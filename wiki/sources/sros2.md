@@ -34,5 +34,5 @@ Do not treat SROS2 documentation as proof that systems are secure when SROS2 is 
 
 ## Source location
 
-- Internal anchor: [SROS2 usable cyber security tools](../../01_literature/B_ros_architecture_and_practice/SROS2-usable-cyber-security-tools-for-ros-2.md)
+- Internal anchor: [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
 - Internal anchor: [research questions and contributions, 20-04-26](../../03_research_questions/research-questions-and-contributions-and-risks-20_04_26.md)

@@ -6,7 +6,7 @@ target: rq3
 sources:
   - wiki/ros2/sros2.md
   - 02_my_notes/dds_ros2_starter_pack.md
-  - 01_literature/B_ros_architecture_and_practice/SROS2-usable-cyber-security-tools-for-ros-2.md
+  - 01_literature/middleware-and-standards/sros2-usable-security-tools.md
 ---
 
 # SROS2 Policy Semantics
@@ -42,7 +42,7 @@ The current frame treats SROS2 usability as analytically interesting rather than
 
 - [sros2.md](../../wiki/ros2/sros2.md)
 - [dds_ros2_starter_pack.md](../../02_my_notes/dds_ros2_starter_pack.md)
-- [SROS2 usable cyber security tools](../../01_literature/B_ros_architecture_and_practice/SROS2-usable-cyber-security-tools-for-ros-2.md)
+- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
 - [decision-resolution_2026-07-07.md](../../inbox/decision-resolution_2026-07-07.md)
 
 ## Open tensions

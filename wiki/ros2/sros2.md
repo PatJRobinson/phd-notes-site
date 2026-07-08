@@ -31,7 +31,7 @@ SROS2 is treated as an example of how safety/security concerns meet configuratio
 
 ## Sources and anchors
 
-- [SROS2 usable cyber security tools](../../01_literature/B_ros_architecture_and_practice/SROS2-usable-cyber-security-tools-for-ros-2.md)
+- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
 - [DDS + ROS 2 starter pack](../../02_my_notes/dds_ros2_starter_pack.md)
 - [Core Concepts](../../02_my_notes/Interview%20Preperation/Core%20Concepts.md)
 - [SROS2 source anchor](../sources/sros2.md)

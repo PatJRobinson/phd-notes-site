@@ -46,12 +46,12 @@ The thesis still needs a decision about how heavily to foreground safety/securit
 
 ## Public sources
 
-- [NIST SP 800-160](../../../01_literature/middleware-and-standards/nist-sp-800-160.md)
-- [IEC 62443-3-2](../../../01_literature/middleware-and-standards/iec-62443-3-2.md)
-- [ISO 10218](../../../01_literature/middleware-and-standards/iso-10218.md)
-- [Leveson STAMP](../../../01_literature/safety-resilience-theory/leveson-engineering-safer-world-stamp.md)
-- [DDS Security specification](../../../01_literature/middleware-and-standards/dds-security-specification.md)
-- [SROS2 usable security tools](../../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
+- [NIST SP 800-160](/01_literature/middleware-and-standards/nist-sp-800-160)
+- [IEC 62443-3-2](/01_literature/middleware-and-standards/iec-62443-3-2)
+- [ISO 10218](/01_literature/middleware-and-standards/iso-10218)
+- [Leveson STAMP](/01_literature/safety-resilience-theory/leveson-engineering-safer-world-stamp)
+- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification)
+- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
 
 ## Internal provenance
 

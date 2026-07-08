@@ -27,11 +27,11 @@ The internal methodology notes already define an assumption as a condition that 
 
 The new literature notes strengthen this position:
 
-- [Braun and Clarke](../../../01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis.md) supports reflexive thematic analysis as interpretive work, with theory used as sensitising concepts rather than as a predetermined coding frame.
-- [Hollnagel](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md) supports the claim that work-as-done is an empirical site, not merely an implementation detail.
-- [Hutchins](../../../01_literature/hci-infrastructure-practice/hutchins-distributed-cognition.md) supports analysing understanding as distributed across people, artefacts, representations, environments, and time.
-- [Star and Ruhleder](../../../01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure.md) supports the idea that infrastructure and assumptions become visible through breakdown, installed base, invisible work, and standards.
-- [Suchman](../../../01_literature/hci-infrastructure-practice/suchman-situated-action.md) supports the limit of formal representations: plans, policies, launch files, and architecture diagrams do not fully determine situated action.
+- [Braun and Clarke](/01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis) supports reflexive thematic analysis as interpretive work, with theory used as sensitising concepts rather than as a predetermined coding frame.
+- [Hollnagel](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done) supports the claim that work-as-done is an empirical site, not merely an implementation detail.
+- [Hutchins](/01_literature/hci-infrastructure-practice/hutchins-distributed-cognition) supports analysing understanding as distributed across people, artefacts, representations, environments, and time.
+- [Star and Ruhleder](/01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure) supports the idea that infrastructure and assumptions become visible through breakdown, installed base, invisible work, and standards.
+- [Suchman](/01_literature/hci-infrastructure-practice/suchman-situated-action) supports the limit of formal representations: plans, policies, launch files, and architecture diagrams do not fully determine situated action.
 
 ## Relation to the RQs
 
@@ -58,11 +58,11 @@ The main risk is method drift. If the extraction protocol becomes too rigid, the
 
 ## Public sources
 
-- [Braun and Clarke literature note](../../../01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis.md)
-- [Hollnagel literature note](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md)
-- [Hutchins literature note](../../../01_literature/hci-infrastructure-practice/hutchins-distributed-cognition.md)
-- [Star and Ruhleder literature note](../../../01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure.md)
-- [Suchman literature note](../../../01_literature/hci-infrastructure-practice/suchman-situated-action.md)
+- [Braun and Clarke literature note](/01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis)
+- [Hollnagel literature note](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done)
+- [Hutchins literature note](/01_literature/hci-infrastructure-practice/hutchins-distributed-cognition)
+- [Star and Ruhleder literature note](/01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure)
+- [Suchman literature note](/01_literature/hci-infrastructure-practice/suchman-situated-action)
 
 ## Internal provenance
 

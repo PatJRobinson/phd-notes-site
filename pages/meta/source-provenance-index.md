@@ -7,6 +7,9 @@
 - [wiki/meta/rq-pathways.md](../../wiki/meta/rq-pathways.md)
 - [wiki/meta/concept-map.md](../../wiki/meta/concept-map.md)
 - [decision-resolution_2026-07-07.md](../../inbox/decision-resolution_2026-07-07.md)
+- [case-studies/index.md](../../02_my_notes/case-studies/index.md)
+- [note-on-analytical-approach.md](../../04_research_methodologies/note-on-analytical-approach.md)
+- [rotifer-as-developer-facing-design-research.md](../../05_prototype_ideas/robotics-testbench-framework/rotifer-as-developer-facing-design-research.md)
 
 ## RQ source-provenance files
 
@@ -19,12 +22,14 @@
 
 - [Rotifer paper provenance](../workflows/rotifer-paper/source-provenance.md)
 - [Safety/security provenance](../workflows/safety-security/source-provenance.md)
+- [Case studies and articles](../workflows/case-studies/index.md)
 
 ## Source clusters
 
 - Current RQ/wiki cluster: active and evidence-for.
 - Interview/methodology cluster: methodological-background and candidate-section-material.
 - Rotifer/dev cluster: evidence-for, candidate-section-material, and work-area material.
+- Case-study/article cluster: candidate-section-material for examples, contrast cases, standards analysis, and public explanatory outputs.
 - Historical framings cluster: historical-origin-of, superseded-framing, recoverable-fragment.
 - CP1/progression cluster: stale-but-useful for institutional reporting.
 - Decision-resolution cluster: active source of current decisions for paper scope, safety/security position, SROS2, ROSness, and terminology.

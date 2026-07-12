@@ -42,15 +42,15 @@ Red:
 
 ## Public sources
 
-- [NIST SP 800-160](/01_literature/middleware-and-standards/nist-sp-800-160)
-- [IEC 62443-3-2](/01_literature/middleware-and-standards/iec-62443-3-2)
-- [ISO 10218](/01_literature/middleware-and-standards/iso-10218)
-- [Leveson STAMP](/01_literature/safety-resilience-theory/leveson-engineering-safer-world-stamp)
-- [ROS 2 design documents](/01_literature/middleware-and-standards/ros2-design-documents)
-- [DDS specification](/01_literature/middleware-and-standards/dds-specification)
-- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification)
-- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
-- [Canelas ROS misconfigurations](/01_literature/ros-and-robotics-se/canelas-ros-misconfigurations)
+- [NIST SP 800-160](../../../01_literature/middleware-and-standards/nist-sp-800-160.md)
+- [IEC 62443-3-2](../../../01_literature/middleware-and-standards/iec-62443-3-2.md)
+- [ISO 10218](../../../01_literature/middleware-and-standards/iso-10218.md)
+- [Leveson STAMP](../../../01_literature/safety-resilience-theory/leveson-engineering-safer-world-stamp.md)
+- [ROS 2 design documents](../../../01_literature/middleware-and-standards/ros2-design-documents.md)
+- [DDS specification](../../../01_literature/middleware-and-standards/dds-specification.md)
+- [DDS Security specification](../../../01_literature/middleware-and-standards/dds-security-specification.md)
+- [SROS2 usable security tools](../../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
+- [Canelas ROS misconfigurations](../../../01_literature/ros-and-robotics-se/canelas-ros-misconfigurations.md)
 
 ## Internal provenance
 

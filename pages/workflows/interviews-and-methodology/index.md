@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Compile the empirical and methodological strand around integrator practice, working understanding, safety/security management, and cross-layer assumptions.
+Develop the empirical and methodological strand around integrator practice, working understanding, safety/security management, scenario-like constructs, and cross-layer assumptions.
 
 ## Current status
 
@@ -14,7 +14,7 @@ RQ1, RQ3, RQ4, with RQ2 as a boundary concept source.
 
 ## Active concepts
 
-[Working understanding](../../concepts/working-understanding.md), [Partial observability](../../concepts/partial-observability.md), [Integrator](../../concepts/integrator.md), [Local knowledge](../../concepts/local-knowledge.md), [Visibility and observability](../../concepts/visibility-and-observability.md), [Integrator responsibility boundary](../../concepts/integrator-responsibility-boundary.md).
+[Working understanding](../../concepts/working-understanding.md), [Assumption](../../concepts/assumption.md), [Scenario](../../concepts/scenario.md), [Partial observability](../../concepts/partial-observability.md), [Integrator](../../concepts/integrator.md), [Local knowledge](../../concepts/local-knowledge.md), [Visibility and observability](../../concepts/visibility-and-observability.md), [Integrator responsibility boundary](../../concepts/integrator-responsibility-boundary.md).
 
 ## Active arguments
 
@@ -50,6 +50,7 @@ Ethics, interview protocol, coding scheme, methods chapter, RQ1/RQ3/RQ4 empirica
 - How to introduce threat-model language.
 - How to preserve inductive openness while tracing assumptions.
 - Whether the extraction protocol remains an assumption-elicitation protocol or hardens into framework/codebook analysis.
+- Whether scenario-like constructs become a useful comparative object across standards, tools, experiments, and interview analysis.
 
 ## Reading route
 

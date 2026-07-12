@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This page explains Rotifer as a method contribution, not only as a software prototype. It compiles the current paper position: Rotifer states, traces, tests, and interprets assumptions that allow robotics experiment claims to remain meaningful across realisations and deployment contexts.
+This page explains Rotifer as a method contribution, not only as a software prototype. It sets out the current paper position: Rotifer states, traces, tests, and interprets assumptions that allow robotics experiment claims to remain meaningful across realisations and deployment contexts.
 
 ## Current position
 
@@ -47,10 +47,10 @@ Future security-suite ideas are scaffold. They should be described as possible e
 
 ## Public sources
 
-- [ROS 2 design documents](/01_literature/middleware-and-standards/ros2-design-documents)
-- [DDS specification](/01_literature/middleware-and-standards/dds-specification)
-- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification)
-- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
+- [ROS 2 design documents](../../../01_literature/middleware-and-standards/ros2-design-documents.md)
+- [DDS specification](../../../01_literature/middleware-and-standards/dds-specification.md)
+- [DDS Security specification](../../../01_literature/middleware-and-standards/dds-security-specification.md)
+- [SROS2 usable security tools](../../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
 
 ## Internal provenance
 

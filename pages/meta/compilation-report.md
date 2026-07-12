@@ -1,5 +1,83 @@
 # Compilation Report
 
+## 2026-07-12 Inbox Integration Site Refresh
+
+### Target
+
+Refresh the organised research notes after processing the July 2026 inbox notes, with emphasis on case studies, scenario and assumption concepts, RQ boundary feedback, ROS 2 communication-model contrasts, and Rotifer design-research positioning.
+
+### Files created
+
+- `compiled-notes/concepts/assumption.md`
+- `compiled-notes/concepts/scenario.md`
+- `compiled-notes/workflows/case-studies/index.md`
+- `compiled-notes/workflows/case-studies/candidate-backlog.md`
+- `compiled-notes/workflows/case-studies/article-workflow.md`
+- `compiled-notes/workflows/case-studies/open-tensions.md`
+
+### Files updated
+
+- `compiled-notes/README.md`
+- `compiled-notes/current-model.md`
+- `compiled-notes/concepts/index.md`
+- `compiled-notes/concepts/ros2-style-robotics.md`
+- `compiled-notes/concepts/sros2-policy-semantics.md`
+- `compiled-notes/rqs/index.md`
+- `compiled-notes/rqs/rq2/index.md`
+- `compiled-notes/rqs/rq2/research-question.md`
+- `compiled-notes/rqs/rq2/open-tensions.md`
+- `compiled-notes/rqs/rq3/open-tensions.md`
+- `compiled-notes/rqs/rq4/index.md`
+- `compiled-notes/rqs/rq4/research-question.md`
+- `compiled-notes/rqs/rq4/open-tensions.md`
+- `compiled-notes/workflows/index.md`
+- `compiled-notes/workflows/thesis-core/index.md`
+- `compiled-notes/workflows/rotifer-paper/index.md`
+- `compiled-notes/workflows/rotifer-paper/assumption-tracing-method.md`
+- `compiled-notes/workflows/rotifer-paper/concept-map.md`
+- `compiled-notes/workflows/rotifer-paper/positioning.md`
+- `compiled-notes/workflows/rotifer-paper/open-tensions.md`
+- `compiled-notes/workflows/rotifer-paper/source-provenance.md`
+- `compiled-notes/workflows/interviews-and-methodology/index.md`
+- `compiled-notes/workflows/interviews-and-methodology/methodological-positioning.md`
+- `compiled-notes/workflows/interviews-and-methodology/analysis-plan.md`
+- `compiled-notes/workflows/interviews-and-methodology/open-tensions.md`
+- `compiled-notes/workflows/safety-security/ros2-security-configuration-surface.md`
+- `compiled-notes/evidence/index.md`
+- `compiled-notes/evidence/interview-and-methodology-evidence.md`
+- `compiled-notes/evidence/rotifer-positioning-and-project-ideology.md`
+- `compiled-notes/evidence/dds-ros2-architectural-substrate.md`
+- `compiled-notes/meta/current-use-index.md`
+- `compiled-notes/meta/source-provenance-index.md`
+- `compiled-notes/meta/unresolved-decisions.md`
+- `compiled-notes/meta/compilation-report.md`
+
+### Main inferences
+
+- Case studies should become a visible area of work because they can ground abstract claims about ROS 2-style integration, deployment, standards, assurance, scenarios, and assumptions.
+- Scenario is useful as a candidate comparative object, but it is not yet a settled concept. It needs standards and artefact analysis before it carries strong claims.
+- Assumption should be used as a sensitising concept and provisional set of dimensions, not as a universal explanation or validated typology.
+- Recent feedback lowers confidence in the reader-facing visibility of the RQ2/RQ4 and RQ3/RQ4 boundaries. No immediate RQ restructuring is warranted, but scope prose must be improved.
+- Rotifer has a plausible developer-facing design-research route, but this is a candidate contribution rather than an evaluated result.
+- gRPC and Kafka are useful communication-model contrasts for ROS 2-style robotics, but they need their own source notes before becoming evidence-heavy claims.
+
+### Verification
+
+- `find compiled-notes -type f | sort` completed.
+- `git diff --check` completed with no whitespace errors.
+- Local markdown links in `compiled-notes/` resolve.
+- Reader-facing provenance phrase search returned no matches for the configured phrases.
+- U+2014 search returned no matches in `compiled-notes/`. Remaining matches are in preserved `wiki/` source headings and source-anchor titles.
+- No `package.json`, Docusaurus config, sidebar file, or `.openai/hosting.json` was found, so there was no site build command to run.
+
+### Remaining weaknesses
+
+- No participant findings are compiled yet.
+- Case studies are a programme and backlog, not completed evidence.
+- Scenario and assumption dimensions need literature and standards grounding.
+- Rotifer design-research framing needs a stronger literature base and later evaluation route.
+- The RQ2/RQ4 distinction still needs to be tested in chapter-level prose.
+
 ## 2026-07-07 Detailed Workflow Page Pass
 
 ### Target

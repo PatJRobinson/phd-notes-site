@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This page compiles the current analysis plan for interviews and related artefacts. It clarifies the relationship between structured extraction, coding, and theme development.
+This page sets out the current analysis plan for interviews and related artefacts. It clarifies the relationship between structured extraction, coding, and theme development.
 
 ## Current position
 
@@ -20,6 +20,7 @@ For each relevant excerpt or artefact, the analysis should ask:
 - Who or what is assumed to maintain it?
 - What evidence would show that it held?
 - What would make it fail or become ambiguous?
+- Is the situation bounded by a scenario, use case, configuration, deployment context, test case, assurance context, experiment definition, or comparable construct?
 - Which layer sees the issue: participant account, tool trace, ROS abstraction, DDS/security substrate, deployment context, or organisational responsibility?
 
 These questions produce comparable assumption records. They do not by themselves produce the final themes.
@@ -55,16 +56,20 @@ The current analysis plan is strong design evidence. It demonstrates that the em
 
 The proposed subcodes are provisional. Labels such as `assumed_owner`, `lifecycle_drift`, `bypass_for_diagnosis`, `silent_failure`, and `vendor_opacity` are useful candidate handles, but they should not be treated as confirmed empirical patterns until analysis has been completed.
 
+The same caution applies to the newer assumption dimensions and scenario comparison prompts. They are analytical aids, not findings.
+
 ## What remains unresolved
 
 The largest unresolved decision is whether the assumption record itself becomes a thesis contribution. If so, the methods chapter should describe its schema, examples, and limits explicitly. If not, it can remain an internal analytic device supporting thematic analysis.
+
+A related decision is whether scenario becomes a named comparative object in the methods chapter or remains a supporting prompt for standards and case-study analysis.
 
 ## Source provenance
 
 ## Public sources
 
-- [Braun and Clarke literature note](/01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis)
-- [Hollnagel literature note](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done)
+- [Braun and Clarke literature note](../../../01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis.md)
+- [Hollnagel literature note](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md)
 
 ## Internal provenance
 

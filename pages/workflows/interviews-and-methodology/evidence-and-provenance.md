@@ -15,11 +15,11 @@ The strand currently has four evidence types:
 
 ## Public grounding now reflected in the compiled site
 
-- [Braun and Clarke](/01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis): supports reflexive, abductive thematic analysis with theory as sensitising concepts.
-- [Hollnagel](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done): supports practice/work-as-done as a safety and resilience site.
-- [Hutchins](/01_literature/hci-infrastructure-practice/hutchins-distributed-cognition): supports analysing understanding across people, artefacts, representations, environments, and time.
-- [Star and Ruhleder](/01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure): supports infrastructure, installed base, invisible work, and breakdown as ways assumptions become visible.
-- [Suchman](/01_literature/hci-infrastructure-practice/suchman-situated-action): supports the limit of formal representations and plans.
+- [Braun and Clarke](../../../01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis.md): supports reflexive, abductive thematic analysis with theory as sensitising concepts.
+- [Hollnagel](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md): supports practice/work-as-done as a safety and resilience site.
+- [Hutchins](../../../01_literature/hci-infrastructure-practice/hutchins-distributed-cognition.md): supports analysing understanding across people, artefacts, representations, environments, and time.
+- [Star and Ruhleder](../../../01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure.md): supports infrastructure, installed base, invisible work, and breakdown as ways assumptions become visible.
+- [Suchman](../../../01_literature/hci-infrastructure-practice/suchman-situated-action.md): supports the limit of formal representations and plans.
 
 ## Internal evidence
 
@@ -41,12 +41,12 @@ Green for study design coherence. Amber for public scholarly grounding because t
 
 ## Public sources
 
-- [Literature map](/01_literature/literature-map)
-- [Braun and Clarke literature note](/01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis)
-- [Hollnagel literature note](/01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done)
-- [Hutchins literature note](/01_literature/hci-infrastructure-practice/hutchins-distributed-cognition)
-- [Star and Ruhleder literature note](/01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure)
-- [Suchman literature note](/01_literature/hci-infrastructure-practice/suchman-situated-action)
+- [Literature map](../../../01_literature/literature-map.md)
+- [Braun and Clarke literature note](../../../01_literature/hci-infrastructure-practice/braun-clarke-reflexive-thematic-analysis.md)
+- [Hollnagel literature note](../../../01_literature/safety-resilience-theory/hollnagel-resilience-engineering-work-as-done.md)
+- [Hutchins literature note](../../../01_literature/hci-infrastructure-practice/hutchins-distributed-cognition.md)
+- [Star and Ruhleder literature note](../../../01_literature/hci-infrastructure-practice/star-ruhleder-infrastructure.md)
+- [Suchman literature note](../../../01_literature/hci-infrastructure-practice/suchman-situated-action.md)
 
 ## Internal provenance
 

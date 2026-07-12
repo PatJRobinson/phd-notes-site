@@ -14,6 +14,20 @@ Rotifer states, traces, tests, and interprets assumptions so experiment claims c
 
 [paper-claim.md](paper-claim.md), [positioning.md](positioning.md).
 
+## 05_prototype_ideas/robotics-testbench-framework/rotifer-as-developer-facing-design-research.md
+
+### Current use
+
+unresolved-tension
+
+### What was carried forward
+
+Rotifer may become a vehicle for design-oriented research into developer-facing tools that represent system structure, assumptions, uncertainty, evidence, and change. This is a candidate contribution rather than an evaluated result.
+
+### Where it appears
+
+[index.md](index.md), [positioning.md](positioning.md), [open-tensions.md](open-tensions.md).
+
 ## 05_prototype_ideas/robotics-testbench-framework/results/command_authority/case_study.md
 
 ### Current use

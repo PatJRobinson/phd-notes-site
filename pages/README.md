@@ -9,3 +9,5 @@ These pages may be regenerated, revised, or reorganised around a different resea
 Every substantive claim in this area should point back to source notes using relative links where possible. Where a claim is inferred across several notes rather than directly stated in one note, it is marked as `Synthesised`.
 
 Contradictions are preserved as research material. A disagreement between notes may appear here as an open tension, a historical precursor, a superseded framing, promising material to revisit, or a candidate thesis move rather than being silently resolved.
+
+Current starting points: [Current Model](current-model.md), [Research Questions](rqs/index.md), [Concepts](concepts/index.md), [Arguments](arguments/index.md), [Evidence](evidence/index.md), and [Work Areas](workflows/index.md).

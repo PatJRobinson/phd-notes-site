@@ -15,7 +15,7 @@ See [Research Questions](rqs/index.md).
 
 ## Active concepts
 
-Core concepts: [Integration](concepts/integration.md), [System behaviour](concepts/system-behaviour.md), [System boundary](concepts/system-boundary.md), [Interface](concepts/interface.md), [Deployment context](concepts/deployment-context.md), [Configuration](concepts/configuration.md), [Working understanding](concepts/working-understanding.md), [Assurance claim](concepts/assurance-claim.md).
+Core concepts: [Integration](concepts/integration.md), [System behaviour](concepts/system-behaviour.md), [System boundary](concepts/system-boundary.md), [Interface](concepts/interface.md), [Deployment context](concepts/deployment-context.md), [Configuration](concepts/configuration.md), [Working understanding](concepts/working-understanding.md), [Assumption](concepts/assumption.md), [Scenario](concepts/scenario.md), [Assurance claim](concepts/assurance-claim.md).
 
 Safety/security concepts: [Safety/security relation](concepts/safety-security-relation.md), [Command authority](concepts/command-authority.md), [SROS2 policy semantics](concepts/sros2-policy-semantics.md), [Integrator responsibility boundary](concepts/integrator-responsibility-boundary.md).
 
@@ -31,8 +31,9 @@ Rotifer concepts: [Rotifer as assumption tracing](concepts/rotifer-as-assumption
 
 ## Active empirical/material sites
 
-- Interview and methodology design around integrators, visibility, responsibility, deployment/change, debugging, and local knowledge.
+- Interview and methodology design around integrators, visibility, responsibility, deployment/change, debugging, assumptions, scenario-like constructs, and local knowledge.
 - Rotifer command-authority case study and Nav2 evidence ladder.
+- Case-study and article programme for grounding abstract claims in concrete ROS 2 projects, deployments, standards, and explanatory articles.
 - DDS/ROS2/SROS2 architecture notes.
 - Wiki concept layer and RQ pathways.
 - Historical fragmentation, layer-misalignment, and architectural instability notes as precursors.
@@ -43,6 +44,7 @@ Rotifer concepts: [Rotifer as assumption tracing](concepts/rotifer-as-assumption
 - Rotifer paper strand under [workflows/rotifer-paper](workflows/rotifer-paper/index.md).
 - Safety/security strand under [workflows/safety-security](workflows/safety-security/index.md).
 - Interviews/methodology strand under [workflows/interviews-and-methodology](workflows/interviews-and-methodology/index.md).
+- Case-studies and articles strand under [workflows/case-studies](workflows/case-studies/index.md).
 - Progression-report strand under [workflows/progression-report](workflows/progression-report/index.md).
 
 ## Work area map
@@ -51,14 +53,17 @@ Rotifer concepts: [Rotifer as assumption tracing](concepts/rotifer-as-assumption
 - [Rotifer paper](workflows/rotifer-paper/index.md): executable assumption tracing and paper claim.
 - [Safety/security](workflows/safety-security/index.md): RQ3 and nonclaim boundaries.
 - [Interviews and methodology](workflows/interviews-and-methodology/index.md): empirical route.
+- [Case studies and articles](workflows/case-studies/index.md): concrete cases, contrast cases, and public explanatory outputs.
 - [Progression report](workflows/progression-report/index.md): institutional output.
 - [Recoverable fragments](workflows/recoverable-fragments/index.md): historical material with reuse potential.
 
 ## Known drifts or unstable areas
 
 - Earlier assumption/misalignment language remains useful but can overdetermine the broader RQ framing.
+- RQ2 and RQ4 may read too close together from the wording alone. The working distinction is that RQ2 asks how modular systems are composed, bounded, and integrated; RQ4 asks what modularity, change, and drift do to assurance claims.
 - RQ3 and RQ4 remain adjacent; safety/security concerns can become assurance claims, but they are not the same thing. RQ4 is retained for now, with an explicit need to show what change-over-time adds.
 - Rotifer can be misread as a portability, benchmarking, security, or assurance tool unless its assumption-tracing boundary is explicit.
+- Rotifer now has a candidate developer-facing design-research direction, but that direction is not yet a settled design PhD contribution.
 - ROSness/prevalence is now promoted as valid for the ROS 2-style robotics thread, but its older security-invariant provenance should remain visible and its examples need public/source audit before heavy use.
 - SROS2 should be treated as an important mediating technology and official ROS 2 security mechanism, but not as the thesis centre.
 
@@ -72,4 +77,4 @@ Rotifer is best understood as executable assumption tracing: a way to make exper
 
 ## Notes on confidence
 
-Confidence is high on RQ wording and RQ3/RQ4 separation because the wiki pathway, June RQ redraft, and July decision note align. Confidence is now higher on the Rotifer paper centre: Nav2 ladder/methodology first, command authority second. Confidence is medium on ROSness/prevalence as a source: it is valid and promotable, but still needs careful public grounding.
+Confidence is high on the existence of the four current RQs because the wiki pathway and June RQ redraft align. Confidence is lower on how visible the RQ2/RQ4 and RQ3/RQ4 boundaries are to a reader, because recent feedback identifies those separations as needing clearer prose. Confidence is now higher on the Rotifer paper centre: Nav2 ladder/methodology first, command authority second. Confidence is medium on ROSness/prevalence as a source: it is valid and promotable, but still needs careful public grounding.

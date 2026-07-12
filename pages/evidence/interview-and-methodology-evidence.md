@@ -11,17 +11,18 @@ sources:
   - 02_my_notes/Interview Preperation/Candidate Questions and Themes.md
   - 02_my_notes/Interview Preperation/Coding Scheme.md
   - 04_research_methodologies/note-on-analytical-approach.md
+  - 02_my_notes/case-studies/index.md
 ---
 
 # Interview and Methodology Evidence
 
 ## What it is
 
-Empirical design scaffolding for studying boundaries, roles, deployment/change, debugging, visibility, access, cloud/remote services, trade-offs, and expectations.
+Empirical design scaffolding for studying boundaries, roles, deployment/change, debugging, visibility, access, cloud/remote services, trade-offs, assumptions, scenario-like constructs, and expectations.
 
 ## Why it matters
 
-It translates the RQs into data collection and coding routes without treating the concepts as findings yet.
+It translates the RQs into data collection, artefact analysis, and coding routes without treating the concepts as findings yet.
 
 ## In this PhD
 
@@ -30,6 +31,7 @@ This is the main current evidence base for planned empirical work.
 ## In relevant RQs
 
 - RQ1: working understanding and debugging.
+- RQ2: boundary-making, scenario-like constructs, configuration, and deployment context.
 - RQ3: safety/security management across interfaces.
 - RQ4: lifecycle drift and assurance maintenance.
 
@@ -45,7 +47,8 @@ This is the main current evidence base for planned empirical work.
 - [Candidate Questions and Themes.md](../../02_my_notes/Interview%20Preperation/Candidate%20Questions%20and%20Themes.md)
 - [Coding Scheme.md](../../02_my_notes/Interview%20Preperation/Coding%20Scheme.md)
 - [note-on-analytical-approach.md](../../04_research_methodologies/note-on-analytical-approach.md)
+- [case-studies/index.md](../../02_my_notes/case-studies/index.md)
 
 ## Open tensions
 
-No actual participant data is presented here.
+No actual participant data is presented here. Scenario and assumption dimensions are analytic prompts, not findings.

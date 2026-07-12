@@ -8,6 +8,8 @@
 - [Interface](interface.md)
 - [Configuration](configuration.md)
 - [Deployment context](deployment-context.md)
+- [Assumption](assumption.md)
+- [Scenario](scenario.md)
 - [Modularity](modularity.md)
 - [ROS 2-style robotics](ros2-style-robotics.md)
 
@@ -36,12 +38,14 @@
 
 ## Methodology concepts
 
+- [Assumption](assumption.md)
+- [Scenario](scenario.md)
 - [Working understanding](working-understanding.md)
 - [Partial observability](partial-observability.md)
 - [Local knowledge](local-knowledge.md)
 
 ## Historical/recoverable concepts
 
-- Assumption misalignment: currently historical but still useful, represented through [Assumption-bearing invariant](assumption-bearing-invariant.md) and [Recoverable fragments](../workflows/recoverable-fragments/index.md).
+- Assumption misalignment: currently historical but still useful, now represented through [Assumption](assumption.md), [Assumption-bearing invariant](assumption-bearing-invariant.md), and [Recoverable fragments](../workflows/recoverable-fragments/index.md).
 - ROSness: promoted as valid for the [ROS 2-style robotics](ros2-style-robotics.md) thread, with older security-invariant provenance preserved.
 - Human as overseer: recoverable for RQ4/future synthesis.

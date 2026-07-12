@@ -11,6 +11,7 @@
 
 - [Rotifer trace evidence](rotifer-trace-evidence.md)
 - [Nav2 evidence ladder](nav2-evidence-ladder.md)
+- [Case studies and articles](../workflows/case-studies/index.md): active programme for case-study notes, contrast cases, standards examples, and public explanatory articles. This is not yet completed empirical evidence.
 
 ## Literature evidence
 
@@ -23,6 +24,7 @@
 
 - [Interview and methodology evidence](interview-and-methodology-evidence.md)
 - [Interview concept map](interview-concept-map.md)
+- [Scenario](../concepts/scenario.md) and [Assumption](../concepts/assumption.md) now provide explicit analytical prompts for standards, artefact, case-study, and interview analysis.
 
 ## Safety/security evidence
 
@@ -39,4 +41,5 @@
 - Standards-specific assurance audit.
 - Additional safety/security case beyond command authority.
 - External/user evaluation of Rotifer.
+- Public evidence for candidate case studies, especially AMR deployments, scenario constructs in standards, and SROS2 policy practice.
 - Exact bibliographic details and source-section extraction for several new `01_literature` evidence items.

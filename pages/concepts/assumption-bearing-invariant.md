@@ -29,7 +29,7 @@ Command authority is the clearest current example.
 
 ## Relations
 
-- `extends` [Assumption](../../wiki/concepts/assumption.md)
+- `extends` [Assumption](assumption.md)
 - `supports` [Command authority](command-authority.md)
 - `is_evidence_for` [Executable assumption tracing turns failures into evidence](../arguments/executable-assumption-tracing-turns-failures-into-evidence.md)
 
@@ -42,4 +42,3 @@ Command authority is the clearest current example.
 ## Open tensions
 
 This is synthesised terminology. It should be reviewed before becoming thesis vocabulary.
-

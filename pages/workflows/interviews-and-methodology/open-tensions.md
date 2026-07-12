@@ -14,7 +14,11 @@ Security should be present analytically, but the interview guide currently avoid
 
 ## Evidence status
 
-The compiled workflow must continue to distinguish design scaffold from empirical findings. It is acceptable to say the protocol is ready to elicit evidence. It is not acceptable to say the candidate patterns have been found until interviews and analysis exist.
+This area of work must continue to distinguish design scaffold from empirical findings. It is acceptable to say the protocol is ready to elicit evidence. It is not acceptable to say the candidate patterns have been found until interviews and analysis exist.
+
+## Assumption and scenario scope
+
+Assumption is useful as a sensitising concept, but it should not absorb requirements, responsibilities, dependencies, omissions, or design decisions without distinction. Scenario is useful as a candidate comparative object, but it may need to split into operating context, configuration, test case, use case, and assurance context after standards analysis.
 
 ## Public grounding
 

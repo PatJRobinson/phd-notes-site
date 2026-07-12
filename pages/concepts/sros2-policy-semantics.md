@@ -42,7 +42,7 @@ The current frame treats SROS2 usability as analytically interesting rather than
 
 - [sros2.md](../../wiki/ros2/sros2.md)
 - [dds_ros2_starter_pack.md](../../02_my_notes/dds_ros2_starter_pack.md)
-- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
+- [SROS2 usable security tools](../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
 - [decision-resolution_2026-07-07.md](../../inbox/decision-resolution_2026-07-07.md)
 
 ## Open tensions

@@ -6,7 +6,11 @@ The claim a run is meant to support. In command authority, the claim is that rob
 
 ## Assumption
 
-A condition that must hold for the claim to remain meaningful.
+A condition that must hold for the claim to remain meaningful. See [Assumption](../../concepts/assumption.md).
+
+## Scenario
+
+The bounded situation in which an experiment, provider, realisation, deployment context, and evidence claim are made interpretable. See [Scenario](../../concepts/scenario.md).
 
 ## Provider / realisation
 
@@ -29,4 +33,4 @@ The flagship safety/security-relevant assumption candidate.
 - [project-ideology.md](../../../05_prototype_ideas/robotics-testbench-framework/project-ideology.md)
 - [rotifer-devlog-15-05-26.md](../../../05_prototype_ideas/robotics-testbench-framework/rotifer-devlog-15-05-26.md)
 - [command_authority_design.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/command_authority_design.md)
-
+- [note-on-analytical-approach.md](../../../04_research_methodologies/note-on-analytical-approach.md)

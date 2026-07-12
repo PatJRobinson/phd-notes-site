@@ -8,7 +8,7 @@ Sources: [wiki/meta/rq-pathways.md](../../../wiki/meta/rq-pathways.md), [researc
 
 ## What this question is really asking
 
-RQ2 asks how boundaries are made, interpreted, shifted, and revised when robotic systems are assembled from packages, nodes, middleware, providers, containers, networks, simulators, hardware, tools, and operating contexts.
+RQ2 asks how boundaries are made, interpreted, shifted, and revised when robotic systems are assembled from packages, nodes, middleware, providers, containers, networks, simulators, hardware, tools, scenarios, and operating contexts.
 
 ## Why it matters
 
@@ -24,6 +24,8 @@ RQ2 provides the boundary and architecture layer. RQ1 explains how integrators u
 - [Modularity](../../concepts/modularity.md)
 - [Deployment context](../../concepts/deployment-context.md)
 - [Configuration](../../concepts/configuration.md)
+- [Scenario](../../concepts/scenario.md)
+- [Assumption](../../concepts/assumption.md)
 - [Interface](../../concepts/interface.md)
 - [ROS 2-style robotics](../../concepts/ros2-style-robotics.md)
 
@@ -39,10 +41,11 @@ RQ2 provides the boundary and architecture layer. RQ1 explains how integrators u
 - Fragmentation and architectural instability notes.
 - DDS/ROS2 architecture notes.
 - Rotifer provider/realisations/deployment traces.
+- Case-study and article programme, especially scenario definition, IEC 62443 boundaries versus ROS graph boundaries, and AV prototype versus warehouse AMR deployment.
 
 ## Open tensions
 
-See [open-tensions.md](open-tensions.md). The main tension is how strong the thesis should make "boundary instability": not "boundaries do not exist", but "boundaries are purpose-relative and operationally maintained."
+See [open-tensions.md](open-tensions.md). The main tension is how strong the thesis should make "boundary instability": not "boundaries do not exist", but "boundaries are purpose-relative and operationally maintained." A second live tension is whether readers can clearly distinguish RQ2 boundary construction from RQ4 assurance-over-change.
 
 ## Reading route
 
@@ -51,4 +54,3 @@ Use [reading-route.md](reading-route.md).
 ## Source provenance
 
 Detailed provenance is in [source-provenance.md](source-provenance.md).
-

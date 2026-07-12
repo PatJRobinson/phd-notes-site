@@ -3,6 +3,7 @@
 ## Live tensions
 
 - RQ3 vs RQ4 boundary: RQ3 asks how safety/security concerns emerge and are managed across interfaces; RQ4 asks how assurance claims remain valid over change. Rotifer and fragmentation notes often speak in assurance language, so they can blur the boundary.
+- RQ boundary visibility: recent feedback does not require immediate restructuring, but it does require clearer scope prose around why RQ3, RQ4, and RQ2 are independent enough to remain separate.
 - Safety/security relation: "no safety without security" is useful rhetorically, but the organised notes must keep safety and security distinct.
 - Interface scope: the concept is powerful because it spans software, tooling, practice, and responsibility, but it risks becoming too broad.
 - Rotifer role: Rotifer currently supports assumption tracing and evidence binding more strongly than full safety/security assurance.
@@ -40,3 +41,4 @@
 - [robotics-security-as-layer-misalignment.md](../../../02_my_notes/analysis_fragments/robotics-security-as-layer-misalignment.md)
 - [rotifer-forest-for-the-trees.md](../../../02_my_notes/analysis_fragments/rotifer-forest-for-the-trees.md)
 - [Threat Models and Mental Models.md](../../../04_research_methodologies/Threat%20Models%20and%20Mental%20Models.md)
+- [research-questions-redraft-16-06-26.md](../../../03_research_questions/research-questions-redraft-16-06-26.md#known-tensions-and-boundaries-under-review)

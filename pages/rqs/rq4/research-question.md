@@ -20,6 +20,8 @@ An answer would show how claims are scoped, what conditions make them valid, wha
 
 It treats continuous assurance as an open problem rather than a solved method. It is broader than formal safety cases. It is distinct from RQ3: RQ3 concerns safety/security across interfaces; RQ4 concerns claim validity and maintenance over change.
 
+The boundary with RQ2 is also under review. RQ2 asks how modular systems are composed, bounded, and integrated. RQ4 asks what happens to assurance claims and evidence when those compositions, boundaries, configurations, or operating contexts change.
+
 ## Relation to other RQs
 
 - RQ1 `supports` RQ4 through working understanding and local knowledge.
@@ -28,7 +30,7 @@ It treats continuous assurance as an open problem rather than a solved method. I
 
 ## Current confidence
 
-Medium-high. The wording is explicit in the current RQ redraft and wiki pathways, and the previous RQ3 pass correctly separated it as adjacent/RQ4. A new decision note keeps all four RQs for now, while preserving the tension that RQ4 must justify what change-over-time adds beyond RQ3.
+Medium. The wording is explicit in the current RQ redraft and wiki pathways, and earlier notes keep all four RQs for now. Recent feedback means confidence should be lower on whether the distinction from RQ2 and RQ3 is visible enough without supporting scope prose.
 
 ## Source provenance
 
@@ -37,3 +39,4 @@ Medium-high. The wording is explicit in the current RQ redraft and wiki pathways
 - [wiki/assurance/assurance-claim.md](../../../wiki/assurance/assurance-claim.md)
 - [wiki/assurance/continuous-assurance.md](../../../wiki/assurance/continuous-assurance.md)
 - [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)
+- [research-questions-redraft-16-06-26.md](../../../03_research_questions/research-questions-redraft-16-06-26.md#known-tensions-and-boundaries-under-review)

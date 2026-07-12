@@ -14,7 +14,7 @@ All RQs.
 
 ## Active concepts
 
-[Integration](../../concepts/integration.md), [System behaviour](../../concepts/system-behaviour.md), [System boundary](../../concepts/system-boundary.md), [Interface](../../concepts/interface.md), [Deployment context](../../concepts/deployment-context.md), [Assurance claim](../../concepts/assurance-claim.md).
+[Integration](../../concepts/integration.md), [System behaviour](../../concepts/system-behaviour.md), [System boundary](../../concepts/system-boundary.md), [Interface](../../concepts/interface.md), [Deployment context](../../concepts/deployment-context.md), [Assumption](../../concepts/assumption.md), [Scenario](../../concepts/scenario.md), [Assurance claim](../../concepts/assurance-claim.md).
 
 ## Active arguments
 
@@ -22,13 +22,15 @@ All RQs.
 
 ## Evidence base
 
-Current RQ redraft, thesis shape note, wiki concept layer, Rotifer evidence, methodology notes.
+Current RQ redraft, thesis shape note, wiki concept layer, Rotifer evidence, methodology notes, and case-study/article programme.
 
 ## Source notes
 
 - [01 - Current Thesis Shape.md](../../../01%20-%20Current%20Thesis%20Shape.md)
 - [research-questions-redraft-16-06-26.md](../../../03_research_questions/research-questions-redraft-16-06-26.md)
 - [candidate-structure.md](../../../02_my_notes/thesis_stuff/candidate-structure.md)
+- [case-studies/index.md](../../../02_my_notes/case-studies/index.md)
+- [note-on-analytical-approach.md](../../../04_research_methodologies/note-on-analytical-approach.md)
 
 ## Outputs this work supports
 
@@ -38,6 +40,8 @@ Thesis outline, progression report, chapter planning, current-model updates.
 
 - How central Rotifer is to the thesis as a whole.
 - Whether assumption/misalignment vocabulary remains mechanism or sensitising concept.
+- Whether scenario becomes a stable comparative object or remains a temporary bridge between standards, experiments, deployment contexts, and assurance.
+- Whether the RQ2/RQ4 distinction is clear enough in prose.
 - RQ4's eventual form: full RQ, synthesis chapter, or both.
 - How much safety/security to foreground in each output, given that it is motivating and consequential while the central argument remains about integration, assumptions, knowledge, practice, and assurance.
 
@@ -45,5 +49,6 @@ Thesis outline, progression report, chapter planning, current-model updates.
 
 1. [Current Model](../../current-model.md)
 2. [Research Questions](../../rqs/index.md)
-3. [candidate-structure.md](../../../02_my_notes/thesis_stuff/candidate-structure.md)
-4. [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)
+3. [Case studies and articles](../case-studies/index.md)
+4. [candidate-structure.md](../../../02_my_notes/thesis_stuff/candidate-structure.md)
+5. [decision-resolution_2026-07-07.md](../../../inbox/decision-resolution_2026-07-07.md)

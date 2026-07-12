@@ -50,19 +50,19 @@ These should be treated as future work unless implemented and evidenced.
 
 ## Public grounding now reflected in the compiled site
 
-- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification) anchors governance, permissions, security plugins, and policy semantics.
-- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools) anchors security tooling as configuration, certificates, policy files, and developer workflow.
-- [ROS 2 threat model](/01_literature/middleware-and-standards/ros2-threat-model) is relevant but should be used cautiously until source-audited.
-- [Canelas ROS misconfigurations](/01_literature/ros-and-robotics-se/canelas-ros-misconfigurations) supports the broader point that ROS integration problems often involve assumptions that are not checked or documented.
+- [DDS Security specification](../../../01_literature/middleware-and-standards/dds-security-specification.md) anchors governance, permissions, security plugins, and policy semantics.
+- [SROS2 usable security tools](../../../01_literature/middleware-and-standards/sros2-usable-security-tools.md) anchors security tooling as configuration, certificates, policy files, and developer workflow.
+- [ROS 2 threat model](../../../01_literature/middleware-and-standards/ros2-threat-model.md) is relevant but should be used cautiously until source-audited.
+- [Canelas ROS misconfigurations](../../../01_literature/ros-and-robotics-se/canelas-ros-misconfigurations.md) supports the broader point that ROS integration problems often involve assumptions that are not checked or documented.
 
 ## Source provenance
 
 ## Public sources
 
-- [DDS Security specification](/01_literature/middleware-and-standards/dds-security-specification)
-- [SROS2 usable security tools](/01_literature/middleware-and-standards/sros2-usable-security-tools)
-- [ROS 2 threat model](/01_literature/middleware-and-standards/ros2-threat-model)
-- [Canelas ROS misconfigurations](/01_literature/ros-and-robotics-se/canelas-ros-misconfigurations)
+- [DDS Security specification](../../../01_literature/middleware-and-standards/dds-security-specification.md)
+- [SROS2 usable security tools](../../../01_literature/middleware-and-standards/sros2-usable-security-tools.md)
+- [ROS 2 threat model](../../../01_literature/middleware-and-standards/ros2-threat-model.md)
+- [Canelas ROS misconfigurations](../../../01_literature/ros-and-robotics-se/canelas-ros-misconfigurations.md)
 
 ## Internal provenance
 

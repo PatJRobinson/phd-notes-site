@@ -6,7 +6,7 @@ Develop the Rotifer paper around executable assumption tracing, concrete experim
 
 ## Current status
 
-Active candidate paper. The paper centre is now resolved as evidence and assumption-tracing methodology, primarily carried by the Nav2 evidence ladder. Command authority remains a strong security-relevant example and possible follow-on paper strand, but it is not the organising centre of this paper.
+Active candidate paper. The paper centre is now resolved as evidence and assumption-tracing methodology, primarily carried by the Nav2 evidence ladder. Command authority remains a strong security-relevant example and possible follow-on paper strand, but it is not the organising centre of this paper. A newer design-research note adds a possible developer-facing tools contribution; that direction is promising but not yet settled.
 
 ## Related RQs
 
@@ -17,7 +17,7 @@ Active candidate paper. The paper centre is now resolved as evidence and assumpt
 
 ## Active concepts
 
-[Rotifer as assumption tracing](../../concepts/rotifer-as-assumption-tracing.md), [Command authority](../../concepts/command-authority.md), [Assumption-bearing invariant](../../concepts/assumption-bearing-invariant.md), [Deployment context](../../concepts/deployment-context.md), [Visibility and observability](../../concepts/visibility-and-observability.md).
+[Rotifer as assumption tracing](../../concepts/rotifer-as-assumption-tracing.md), [Assumption](../../concepts/assumption.md), [Scenario](../../concepts/scenario.md), [Command authority](../../concepts/command-authority.md), [Assumption-bearing invariant](../../concepts/assumption-bearing-invariant.md), [Deployment context](../../concepts/deployment-context.md), [Visibility and observability](../../concepts/visibility-and-observability.md).
 
 ## Active arguments
 
@@ -37,6 +37,7 @@ Active candidate paper. The paper centre is now resolved as evidence and assumpt
 ## Source notes
 
 - [positioning-note.md](../../../05_prototype_ideas/robotics-testbench-framework/positioning-note.md)
+- [rotifer-as-developer-facing-design-research.md](../../../05_prototype_ideas/robotics-testbench-framework/rotifer-as-developer-facing-design-research.md)
 - [project-ideology.md](../../../05_prototype_ideas/robotics-testbench-framework/project-ideology.md)
 - [plan_06-06-26.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/plan_06-06-26.md)
 - [positioning_statements.md](../../../02_my_notes/papers/Making%20Command%20Authority%20Assumptions%20Explicit%20in%20ROS%202%20Robotics%20Experiments/positioning_statements.md)
@@ -53,6 +54,7 @@ Rotifer paper, thesis methodology/evidence section, RQ3 safety/security case, RQ
 - How exactly should the paper title/framing express the Nav2 evidence-ladder centre?
 - How much command-authority material belongs in the paper as a secondary safety/security thread?
 - Where should the cautious safety/security discussion section sit?
+- Whether the developer-facing design-research direction belongs in this paper, a later tool/design paper, or the thesis methodology.
 
 ## Reading route
 

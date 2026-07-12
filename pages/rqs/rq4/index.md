@@ -26,6 +26,8 @@ RQ4 is the assurance-over-change question. It depends on RQ1's account of workin
 - [Configuration](../../concepts/configuration.md)
 - [System boundary](../../concepts/system-boundary.md)
 - [Local knowledge](../../concepts/local-knowledge.md)
+- [Assumption](../../concepts/assumption.md)
+- [Scenario](../../concepts/scenario.md)
 - [Assumption-bearing invariant](../../concepts/assumption-bearing-invariant.md)
 
 ## Main arguments
@@ -40,10 +42,11 @@ RQ4 is the assurance-over-change question. It depends on RQ1's account of workin
 - Fragmentation/architectural instability note.
 - Rotifer positioning and evidence-ladder material.
 - Interview concepts around lifecycle drift, visibility, and local knowledge.
+- Scenario and case-study programme as a route into assurance context, evidence scope, and claim maintenance.
 
 ## Open tensions
 
-See [open-tensions.md](open-tensions.md). The main tension is how much of RQ4 is method, theory, Rotifer evidence, or future work.
+See [open-tensions.md](open-tensions.md). The main tension is how much of RQ4 is method, theory, Rotifer evidence, or future work. A second live tension is how visibly RQ4 differs from RQ2 and RQ3.
 
 ## Reading route
 
